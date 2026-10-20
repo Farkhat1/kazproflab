@@ -31,6 +31,15 @@ const TYPE_LABELS = {
   reviews: 'Обратная связь',
 };
 
+// These source images contain course information that must remain visible in full.
+const UNCROPPED_SERVICE_IMAGES = new Set([
+  '/p134404158-gost-isoiec-17065.html',
+  '/p134404165-isoiec-17021-17021.html',
+  '/p134404167-podgotovka-povyshenie-kvalifikatsii.html',
+  '/p134404219-podgotovka-povyshenie-kvalifikatsii.html',
+  '/p134427870-gost-isoiec-17024.html',
+]);
+
 function normalized(value = '') {
   return String(value).toLocaleLowerCase('ru').replaceAll('ё', 'е').trim();
 }
@@ -136,19 +145,45 @@ function HtmlBody({ html, pages, className = '' }) {
 
 function ServiceCard({ page, byPath }) {
   const direction = directionFor(page, byPath);
+  const image = page.images?.find((item) => item.url);
   return (
     <Link className="cp-service-card" to={page.path}>
-      <div className="cp-service-card-top">
-        <span>{direction?.label || 'Консалтинг'}</span>
-        <ArrowUpRight size={22} aria-hidden="true" />
-      </div>
-      <h3>{page.title}</h3>
-      {page.description && <p>{shortText(page.description)}</p>}
-      <div className="cp-service-card-bottom">
-        <span>{page.price || 'Подробнее об услуге'}</span>
-        <ArrowRight size={21} aria-hidden="true" />
+      {image && (
+        <div className={`cp-service-card-media${UNCROPPED_SERVICE_IMAGES.has(page.path) ? ' cp-media--contain' : ''}`}>
+          <img src={image.url} alt="" loading="lazy" decoding="async" />
+        </div>
+      )}
+      <div className="cp-service-card-content">
+        <div className="cp-service-card-top">
+          <span>{direction?.label || 'Консалтинг'}</span>
+          <ArrowUpRight size={22} aria-hidden="true" />
+        </div>
+        <h3>{page.title}</h3>
+        {page.description && <p>{shortText(page.description)}</p>}
+        <div className="cp-service-card-bottom">
+          <span>{page.price || 'Подробнее об услуге'}</span>
+          <ArrowRight size={21} aria-hidden="true" />
+        </div>
       </div>
     </Link>
+  );
+}
+
+function ServiceVisual({ page, images }) {
+  if (!images.length) return null;
+  return (
+    <div className="cp-service-visual">
+      {images.map((image, index) => (
+        <figure className={`cp-service-visual-frame${UNCROPPED_SERVICE_IMAGES.has(page.path) ? ' cp-media--contain' : ''}`} key={image.url}>
+          <img
+            src={image.url}
+            alt={image.alt || page.title}
+            loading={index === 0 ? 'eager' : 'lazy'}
+            decoding="async"
+          />
+        </figure>
+      ))}
+    </div>
   );
 }
 
@@ -302,16 +337,13 @@ function ServicePage({ page, pages, byPath, company, onConsult }) {
   const images = (page.images || []).filter((image) => image.url && !(page.bodyHtml || '').includes(image.url));
   return (
     <article className="cp-page">
-      <PageHero page={page} />
+      <PageHero page={page}>
+        <ServiceVisual page={page} images={images} />
+      </PageHero>
       <div className="container cp-page-body">
         <div className="cp-service-layout">
           <div className="cp-reading-panel cp-service-description">
             {page.bodyHtml ? <HtmlBody html={page.bodyHtml} pages={pages} /> : <p>{page.description}</p>}
-            {images.length > 0 && (
-              <div className="cp-service-images">
-                {images.map((image) => <img key={image.url} src={image.url} alt={image.alt || page.title} loading="lazy" />)}
-              </div>
-            )}
           </div>
           <aside className="cp-service-aside">
             <div className="cp-service-summary">
@@ -404,6 +436,25 @@ function ContactsPage({ page, pages, company, onConsult }) {
             </a>
           </div>
         </div>
+        {company.mapUrl && (
+          <section className="cp-location-map" id="location-map" aria-labelledby="location-map-title">
+            <div className="cp-section-heading">
+              <h2 id="location-map-title">Мы на карте</h2>
+              <a className="text-link" href={mapUrl} target="_blank" rel="noopener noreferrer">
+                Открыть в Google Картах <ArrowUpRight size={20} aria-hidden="true" />
+              </a>
+            </div>
+            <iframe
+              src={company.mapUrl}
+              title={`КазПроф Лаб на карте — ${company.address}`}
+              width="100%"
+              height="440"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              allowFullScreen
+            />
+          </section>
+        )}
         <ConsultBand company={company} onConsult={onConsult} />
       </div>
     </article>

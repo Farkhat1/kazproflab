@@ -17,7 +17,12 @@ const productionUrl = (path) => `https://kazproflab.kz${path}`;
 const waHref = (message) => `${company.whatsappUrl}?text=${encodeURIComponent(message)}`;
 const normalPath = (path) => path.length > 1 ? path.replace(/\/+$/, "") : path;
 
-function Logo() { return <Link className="brand" to="/" aria-label="КазПроф Лаб — главная">КазПроф Лаб</Link>; }
+function Logo() {
+  return <Link className="brand" to="/" aria-label="КазПроф Лаб — главная">
+    <span className="brand-emblem"><img src="/assets/brand/kazproflab-logo.webp" alt="" width={64} height={63} /></span>
+    <span className="brand-copy"><strong>КазПроф Лаб</strong><small>Обучение · Аудит · Консалтинг</small></span>
+  </Link>;
+}
 function Header({ onConsult, isHome }) {
   const [open, setOpen] = useState(false);
   const location = useLocation();
@@ -69,9 +74,12 @@ function Home({ onConsult }) {
         </div>
       </div>
     </section>
-    <section className="section intro-section"><div className="container intro-grid">
-      <div><p className="eyebrow">КазПроф Лаб / О компании</p><h2>{home.intro.title}</h2><Link className="text-link" to="/about_us">Больше о компании <ArrowUpRightIcon /></Link></div>
-      <div className="intro-copy"><Html html={home.intro.tagline} className="intro-tagline" />{home.intro.paragraphs.map((p, i) => <Html key={i} html={p.html} />)}<Link className="text-link" to="/product_list">Услуги компании <ArrowRightIcon /></Link></div>
+    <section className="section intro-section"><div className="container">
+      <div className="intro-heading"><p className="eyebrow">КазПроф Лаб / О компании</p><h2>{home.intro.title}</h2></div>
+      <div className="intro-grid">
+        <figure className="intro-visual"><img src="/assets/visual-v2/laboratory-practice.webp" alt="Работа с пипеткой и измерительным оборудованием в лаборатории" width={1536} height={1024} loading="lazy" /></figure>
+        <div className="intro-copy"><Html html={home.intro.tagline} className="intro-tagline" />{home.intro.paragraphs.map((p, i) => <Html key={i} html={p.html} />)}<div className="intro-links"><Link className="text-link" to="/about_us">Больше о компании <ArrowUpRightIcon /></Link><Link className="text-link" to="/product_list">Услуги компании <ArrowRightIcon /></Link></div></div>
+      </div>
     </div></section>
     <section className="section expertise-section"><div className="container expertise-grid">
       <div className="expertise-heading"><p className="eyebrow">Отдельные задачи и комплексные проекты</p><h2>{home.sectionTitles.services}</h2><p className="section-caption">Подключаемся на том этапе, на котором вам нужна поддержка.</p><Link className="text-link" to="/product_list">Все предложения <ArrowUpRightIcon /></Link></div>
@@ -92,7 +100,6 @@ function Home({ onConsult }) {
       <div className="section-heading"><p className="eyebrow">Прозрачный процесс</p><h2>{home.sectionTitles.process}</h2></div>
       <ol className="work-grid">{home.process.map(item => <li key={item.title}><span className="work-number">{item.number}</span><h3>{item.title}</h3><Html html={item.bodyHtml} /></li>)}</ol>
     </div></section>
-    <ContactBanner onConsult={onConsult} />
   </main>;
 }
 function ContactBanner({ onConsult }) {
@@ -101,13 +108,15 @@ function ContactBanner({ onConsult }) {
     <div><button className="button" onClick={() => onConsult("")}>Обсудить задачу <ArrowRightIcon size={23} /></button><a className="contact-banner-phone" href={phoneHref(company.phones[0])}>{company.phones[0]}</a></div>
   </div></section>;
 }
-function Footer() {
-  return <footer className="site-footer"><div className="container">
+function Footer({ isHome, onConsult }) {
+  return <footer className={`site-footer ${isHome ? "site-footer--home" : ""}`}>
+    {isHome && <ContactBanner onConsult={onConsult} />}
+    <div className="container footer-content">
     <div className="footer-main">
       <div className="footer-brand"><Logo /><p>Обучение, аудит и консалтинг<br />для лабораторий и бизнеса.</p><span>Астана · Работаем по Казахстану</span></div>
       <div className="footer-column"><h2>Направления</h2>{directions.map(item => <Link key={item.path} to={item.path}>{item.title.replace("\n", " ")}</Link>)}<Link to="/product_list">Все услуги</Link></div>
       <div className="footer-column"><h2>Компания</h2><Link to="/about_us">О компании</Link><Link to="/contacts">Контакты</Link><Link to="/testimonials">Отзывы</Link><Link to="/delivery_info">Доставка и оплата</Link><Link to="/return_policy">Возврат и обмен</Link></div>
-      <div className="footer-column footer-contacts"><h2>Свяжитесь с нами</h2>{company.phones.map(phone => <a href={phoneHref(phone)} key={phone}><PhoneIcon />{phone}</a>)}<a href={`mailto:${company.email}`}><EnvelopeSimpleIcon />{company.email}</a><Link to="/contacts"><MapPinIcon />{company.address}</Link></div>
+      <div className="footer-column footer-contacts"><h2>Свяжитесь с нами</h2>{company.phones.map(phone => <a href={phoneHref(phone)} key={phone}><PhoneIcon />{phone}</a>)}<a href={`mailto:${company.email}`}><EnvelopeSimpleIcon />{company.email}</a><Link to="/contacts#location-map"><MapPinIcon />{company.address}</Link></div>
     </div>
     <div className="footer-bottom"><span>© {new Date().getFullYear()} ТОО «КазПроф Лаб»</span><span>Компетентность начинается с системного подхода.</span><a href="#top">Наверх ↑</a></div>
   </div></footer>;
@@ -187,7 +196,7 @@ function Site() {
     <a href="#main-content" className="skip-link">Перейти к содержанию</a>
     <Header onConsult={onConsult} isHome={page?.type === "home"} />
     {page?.type === "home" ? <Home onConsult={onConsult} /> : page ? <main id="main-content"><ContentPage key={page.path} page={page} pages={pages} company={company} onConsult={onConsult} /></main> : <main id="main-content" className="container not-found"><p className="eyebrow">404 / Страница не найдена</p><h1>Здесь пока ничего нет.</h1><p>Посмотрите каталог услуг или вернитесь на главную.</p><Link className="button" to="/product_list">Перейти к услугам <ArrowRightIcon /></Link></main>}
-    <Footer />
+    <Footer isHome={page?.type === "home"} onConsult={onConsult} />
     <a className="whatsapp-float" href={waHref(`Добрый день! Меня интересует предложение с Вашего сайта: ${productionUrl(pathname)}`)} target="_blank" rel="noopener noreferrer" aria-label="Написать в WhatsApp КазПроф Лаб" title="Написать в WhatsApp"><WhatsappLogoIcon size={34} weight="fill" /><span>Напишите нам</span></a>
     {consultation && <Consultation topic={consultation.topic} pathname={pathname} onClose={() => setConsultation(null)} />}
   </>;

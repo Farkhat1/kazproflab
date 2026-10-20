@@ -2,7 +2,9 @@
 
 The approved visual source is `../output/design-concepts-round-3/03-technological.png`.
 The user chose this image over the modular concept and authorized the full redesign on 20 October 2026.
+The user subsequently authorized a visual experiment: restore the original brand logo on the homepage, integrate service images into the service hero and catalog cards rather than appending them after text, and generate additional laboratory photography for the landing page/footer. These requested changes supersede exact fidelity to the first one-screen reference in those areas. Preserve the established navy/cyan visual direction and all content.
 Preserve all 59 source routes and substantive source content. Keep the original floating WhatsApp at the left, number 77004496383, with the current page URL in the message. Do not publish or change DNS as part of local implementation.
+Use the original brand emblem for the favicon. Preserve the original Google Maps embed and coordinates on the contacts page; the footer address links directly to that map.
 
 Run the local server yourself and open the preview in the browser available to this environment. Do not give the user server-start instructions when you can run it.
 
