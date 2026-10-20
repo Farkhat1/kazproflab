@@ -1,0 +1,28 @@
+node_modules/
+dist/
+.preview/
+.cache/
+.vite/
+coverage/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example
+
+# Keep the approved direction; earlier exploratory exports stay local.
+/output/*
+!/output/design-concepts-round-3/
+/output/design-concepts-round-3/*
+!/output/design-concepts-round-3/03-technological.png
+!/output/design-concepts-round-3/technological-prompt.json
+
+# Keep final evidence, excluding intermediate captures and embedded duplicates.
+/website/qa/*
+!/website/qa/production/
+!/website/qa/comparison.png

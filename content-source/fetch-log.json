@@ -1,0 +1,474 @@
+[
+  {
+    "url": "https://kazproflab.kz/about_us",
+    "path": "/about_us",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/about_us",
+    "file": "about_us.html",
+    "bytes": 45004
+  },
+  {
+    "url": "https://kazproflab.kz/contacts",
+    "path": "/contacts",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/contacts",
+    "file": "contacts.html",
+    "bytes": 37899
+  },
+  {
+    "url": "https://kazproflab.kz/return_policy",
+    "path": "/return_policy",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/return_policy",
+    "file": "return_policy.html",
+    "bytes": 42902
+  },
+  {
+    "url": "https://kazproflab.kz/",
+    "path": "/",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/",
+    "file": "home.html",
+    "bytes": 76951
+  },
+  {
+    "url": "https://kazproflab.kz/product_list",
+    "path": "/product_list",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/product_list",
+    "file": "product_list.html",
+    "bytes": 43016
+  },
+  {
+    "url": "https://kazproflab.kz/delivery_info",
+    "path": "/delivery_info",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/delivery_info",
+    "file": "delivery_info.html",
+    "bytes": 41067
+  },
+  {
+    "url": "https://kazproflab.kz/testimonials",
+    "path": "/testimonials",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/testimonials",
+    "file": "testimonials.html",
+    "bytes": 38354
+  },
+  {
+    "url": "https://kazproflab.kz/p128297198-obuchenie-gost-isoiec.html",
+    "path": "/p128297198-obuchenie-gost-isoiec.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p128297198-obuchenie-gost-isoiec.html",
+    "file": "p128297198-obuchenie-gost-isoiec.html.html",
+    "bytes": 69172
+  },
+  {
+    "url": "https://kazproflab.kz/p128297202-iso-15189-2023.html",
+    "path": "/p128297202-iso-15189-2023.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p128297202-iso-15189-2023.html",
+    "file": "p128297202-iso-15189-2023.html.html",
+    "bytes": 69440
+  },
+  {
+    "url": "https://kazproflab.kz/p128297206-gost-isoiec-17043.html",
+    "path": "/p128297206-gost-isoiec-17043.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p128297206-gost-isoiec-17043.html",
+    "file": "p128297206-gost-isoiec-17043.html.html",
+    "bytes": 71377
+  },
+  {
+    "url": "https://kazproflab.kz/p128297210-iso-9001-2016.html",
+    "path": "/p128297210-iso-9001-2016.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p128297210-iso-9001-2016.html",
+    "file": "p128297210-iso-9001-2016.html.html",
+    "bytes": 65466
+  },
+  {
+    "url": "https://kazproflab.kz/p134381471-otsenka-neopredelennosti-rezultatov.html",
+    "path": "/p134381471-otsenka-neopredelennosti-rezultatov.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134381471-otsenka-neopredelennosti-rezultatov.html",
+    "file": "p134381471-otsenka-neopredelennosti-rezultatov.html.html",
+    "bytes": 70938
+  },
+  {
+    "url": "https://kazproflab.kz/p128297214-podgotovka-vnutrennih-auditorov.html",
+    "path": "/p128297214-podgotovka-vnutrennih-auditorov.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p128297214-podgotovka-vnutrennih-auditorov.html",
+    "file": "p128297214-podgotovka-vnutrennih-auditorov.html.html",
+    "bytes": 65293
+  },
+  {
+    "url": "https://kazproflab.kz/p134381479-validatsiya-verifikatsiya-metodov.html",
+    "path": "/p134381479-validatsiya-verifikatsiya-metodov.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134381479-validatsiya-verifikatsiya-metodov.html",
+    "file": "p134381479-validatsiya-verifikatsiya-metodov.html.html",
+    "bytes": 71128
+  },
+  {
+    "url": "https://kazproflab.kz/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+    "path": "/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+    "file": "p134387454-vnutrilaboratornyj-kontrol-kachestva.html.html",
+    "bytes": 72468
+  },
+  {
+    "url": "https://kazproflab.kz/p134387466-vnutrennij-audit-ispytatelnoj.html",
+    "path": "/p134387466-vnutrennij-audit-ispytatelnoj.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134387466-vnutrennij-audit-ispytatelnoj.html",
+    "file": "p134387466-vnutrennij-audit-ispytatelnoj.html.html",
+    "bytes": 74378
+  },
+  {
+    "url": "https://kazproflab.kz/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+    "path": "/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+    "file": "p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html.html",
+    "bytes": 79133
+  },
+  {
+    "url": "https://kazproflab.kz/p134404104-statisticheskie-metody-proverki.html",
+    "path": "/p134404104-statisticheskie-metody-proverki.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404104-statisticheskie-metody-proverki.html",
+    "file": "p134404104-statisticheskie-metody-proverki.html.html",
+    "bytes": 75916
+  },
+  {
+    "url": "https://kazproflab.kz/p134404126-razrabotka-vnedrenie-sistemy.html",
+    "path": "/p134404126-razrabotka-vnedrenie-sistemy.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404126-razrabotka-vnedrenie-sistemy.html",
+    "file": "p134404126-razrabotka-vnedrenie-sistemy.html.html",
+    "bytes": 78042
+  },
+  {
+    "url": "https://kazproflab.kz/p134404124-razrabotka-vnedrenie-sistemy.html",
+    "path": "/p134404124-razrabotka-vnedrenie-sistemy.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404124-razrabotka-vnedrenie-sistemy.html",
+    "file": "p134404124-razrabotka-vnedrenie-sistemy.html.html",
+    "bytes": 77255
+  },
+  {
+    "url": "https://kazproflab.kz/p134404119-razrabotka-vnedrenie-sistemy.html",
+    "path": "/p134404119-razrabotka-vnedrenie-sistemy.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404119-razrabotka-vnedrenie-sistemy.html",
+    "file": "p134404119-razrabotka-vnedrenie-sistemy.html.html",
+    "bytes": 77702
+  },
+  {
+    "url": "https://kazproflab.kz/p134404155-menedzhment-riskov-iso.html",
+    "path": "/p134404155-menedzhment-riskov-iso.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404155-menedzhment-riskov-iso.html",
+    "file": "p134404155-menedzhment-riskov-iso.html.html",
+    "bytes": 72135
+  },
+  {
+    "url": "https://kazproflab.kz/p134404149-razrabotka-vnedrenie-sistemy.html",
+    "path": "/p134404149-razrabotka-vnedrenie-sistemy.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404149-razrabotka-vnedrenie-sistemy.html",
+    "file": "p134404149-razrabotka-vnedrenie-sistemy.html.html",
+    "bytes": 79002
+  },
+  {
+    "url": "https://kazproflab.kz/p134404158-gost-isoiec-17065.html",
+    "path": "/p134404158-gost-isoiec-17065.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404158-gost-isoiec-17065.html",
+    "file": "p134404158-gost-isoiec-17065.html.html",
+    "bytes": 79221
+  },
+  {
+    "url": "https://kazproflab.kz/p134404159-vnutrennij-audit-ops.html",
+    "path": "/p134404159-vnutrennij-audit-ops.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404159-vnutrennij-audit-ops.html",
+    "file": "p134404159-vnutrennij-audit-ops.html.html",
+    "bytes": 75103
+  },
+  {
+    "url": "https://kazproflab.kz/p134404165-isoiec-17021-17021.html",
+    "path": "/p134404165-isoiec-17021-17021.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404165-isoiec-17021-17021.html",
+    "file": "p134404165-isoiec-17021-17021.html.html",
+    "bytes": 81377
+  },
+  {
+    "url": "https://kazproflab.kz/p134404161-soprovozhdenie-ops-pri.html",
+    "path": "/p134404161-soprovozhdenie-ops-pri.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404161-soprovozhdenie-ops-pri.html",
+    "file": "p134404161-soprovozhdenie-ops-pri.html.html",
+    "bytes": 78690
+  },
+  {
+    "url": "https://kazproflab.kz/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+    "path": "/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+    "file": "p134404167-podgotovka-povyshenie-kvalifikatsii.html.html",
+    "bytes": 78988
+  },
+  {
+    "url": "https://kazproflab.kz/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+    "path": "/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+    "file": "p134404219-podgotovka-povyshenie-kvalifikatsii.html.html",
+    "bytes": 81047
+  },
+  {
+    "url": "https://kazproflab.kz/p134405135-vnutrennij-audit-ops.html",
+    "path": "/p134405135-vnutrennij-audit-ops.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134405135-vnutrennij-audit-ops.html",
+    "file": "p134405135-vnutrennij-audit-ops.html.html",
+    "bytes": 78486
+  },
+  {
+    "url": "https://kazproflab.kz/p134405603-soprovozhdenie-ops-pri.html",
+    "path": "/p134405603-soprovozhdenie-ops-pri.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134405603-soprovozhdenie-ops-pri.html",
+    "file": "p134405603-soprovozhdenie-ops-pri.html.html",
+    "bytes": 81541
+  },
+  {
+    "url": "https://kazproflab.kz/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+    "path": "/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+    "file": "p134405768-menedzher-kachestvu-ispytatelnoj.html.html",
+    "bytes": 86028
+  },
+  {
+    "url": "https://kazproflab.kz/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+    "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+    "file": "p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html.html",
+    "bytes": 87158
+  },
+  {
+    "url": "https://kazproflab.kz/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+    "path": "/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+    "file": "p134408346-upravlenie-aktualizatsiya-normativnyh.html.html",
+    "bytes": 82747
+  },
+  {
+    "url": "https://kazproflab.kz/p134408347-vnutrennij-audit-provajdera.html",
+    "path": "/p134408347-vnutrennij-audit-provajdera.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134408347-vnutrennij-audit-provajdera.html",
+    "file": "p134408347-vnutrennij-audit-provajdera.html.html",
+    "bytes": 84282
+  },
+  {
+    "url": "https://kazproflab.kz/p134408348-soprovozhdenie-ppk-pri.html",
+    "path": "/p134408348-soprovozhdenie-ppk-pri.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134408348-soprovozhdenie-ppk-pri.html",
+    "file": "p134408348-soprovozhdenie-ppk-pri.html.html",
+    "bytes": 84436
+  },
+  {
+    "url": "https://kazproflab.kz/p134408356-diagnosticheskij-audit-laboratorii.html",
+    "path": "/p134408356-diagnosticheskij-audit-laboratorii.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134408356-diagnosticheskij-audit-laboratorii.html",
+    "file": "p134408356-diagnosticheskij-audit-laboratorii.html.html",
+    "bytes": 87456
+  },
+  {
+    "url": "https://kazproflab.kz/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+    "path": "/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+    "file": "p134408364-otsenivanie-neopredelennosti-izmerenij.html.html",
+    "bytes": 85728
+  },
+  {
+    "url": "https://kazproflab.kz/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+    "path": "/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+    "file": "p134408382-podgotovka-laboratorii-akkreditatsii.html.html",
+    "bytes": 85726
+  },
+  {
+    "url": "https://kazproflab.kz/p134427870-gost-isoiec-17024.html",
+    "path": "/p134427870-gost-isoiec-17024.html",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/p134427870-gost-isoiec-17024.html",
+    "file": "p134427870-gost-isoiec-17024.html.html",
+    "bytes": 75048
+  },
+  {
+    "url": "https://kazproflab.kz/g9714386-podgotovka-otsenke-akkreditatsii",
+    "path": "/g9714386-podgotovka-otsenke-akkreditatsii",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714386-podgotovka-otsenke-akkreditatsii",
+    "file": "g9714386-podgotovka-otsenke-akkreditatsii.html",
+    "bytes": 80613
+  },
+  {
+    "url": "https://kazproflab.kz/g9499437-obuchenie-povyshenie-kvalifikatsii",
+    "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9499437-obuchenie-povyshenie-kvalifikatsii",
+    "file": "g9499437-obuchenie-povyshenie-kvalifikatsii.html",
+    "bytes": 226860
+  },
+  {
+    "url": "https://kazproflab.kz/g9714387-razrabotka-vnedrenie-sistem",
+    "path": "/g9714387-razrabotka-vnedrenie-sistem",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714387-razrabotka-vnedrenie-sistem",
+    "file": "g9714387-razrabotka-vnedrenie-sistem.html",
+    "bytes": 98247
+  },
+  {
+    "url": "https://kazproflab.kz/g9714388-audit-otsenka",
+    "path": "/g9714388-audit-otsenka",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714388-audit-otsenka",
+    "file": "g9714388-audit-otsenka.html",
+    "bytes": 87895
+  },
+  {
+    "url": "https://kazproflab.kz/g9714389-laboratorii-metrologiya",
+    "path": "/g9714389-laboratorii-metrologiya",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714389-laboratorii-metrologiya",
+    "file": "g9714389-laboratorii-metrologiya.html",
+    "bytes": 127365
+  },
+  {
+    "url": "https://kazproflab.kz/g9714390-sistemy-menedzhmenta-predpriyatij",
+    "path": "/g9714390-sistemy-menedzhmenta-predpriyatij",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714390-sistemy-menedzhmenta-predpriyatij",
+    "file": "g9714390-sistemy-menedzhmenta-predpriyatij.html",
+    "bytes": 60354
+  },
+  {
+    "url": "https://kazproflab.kz/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+    "path": "/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+    "file": "g9714391-organy-podtverzhdeniyu-sootvetstviya.html",
+    "bytes": 53359
+  },
+  {
+    "url": "https://kazproflab.kz/g9714393-provajdery-proverki-kvalifikatsii",
+    "path": "/g9714393-provajdery-proverki-kvalifikatsii",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714393-provajdery-proverki-kvalifikatsii",
+    "file": "g9714393-provajdery-proverki-kvalifikatsii.html",
+    "bytes": 52692
+  },
+  {
+    "url": "https://kazproflab.kz/g9714392-eksperty-auditory-organy",
+    "path": "/g9714392-eksperty-auditory-organy",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714392-eksperty-auditory-organy",
+    "file": "g9714392-eksperty-auditory-organy.html",
+    "bytes": 77476
+  },
+  {
+    "url": "https://kazproflab.kz/g9714394-vnutrennie-audity",
+    "path": "/g9714394-vnutrennie-audity",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714394-vnutrennie-audity",
+    "file": "g9714394-vnutrennie-audity.html",
+    "bytes": 51803
+  },
+  {
+    "url": "https://kazproflab.kz/g9714395-diagnosticheskij-audit-analiz",
+    "path": "/g9714395-diagnosticheskij-audit-analiz",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714395-diagnosticheskij-audit-analiz",
+    "file": "g9714395-diagnosticheskij-audit-analiz.html",
+    "bytes": 53170
+  },
+  {
+    "url": "https://kazproflab.kz/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+    "path": "/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+    "file": "g9714396-organy-podtverzhdeniyu-sootvetstviya.html",
+    "bytes": 59978
+  },
+  {
+    "url": "https://kazproflab.kz/g9714398-provajdery-proverki-kvalifikatsii",
+    "path": "/g9714398-provajdery-proverki-kvalifikatsii",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714398-provajdery-proverki-kvalifikatsii",
+    "file": "g9714398-provajdery-proverki-kvalifikatsii.html",
+    "bytes": 52601
+  },
+  {
+    "url": "https://kazproflab.kz/g9714399-organy-otsenki-sootvetstviya",
+    "path": "/g9714399-organy-otsenki-sootvetstviya",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714399-organy-otsenki-sootvetstviya",
+    "file": "g9714399-organy-otsenki-sootvetstviya.html",
+    "bytes": 61221
+  },
+  {
+    "url": "https://kazproflab.kz/g9714400-laboratorii",
+    "path": "/g9714400-laboratorii",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714400-laboratorii",
+    "file": "g9714400-laboratorii.html",
+    "bytes": 52087
+  },
+  {
+    "url": "https://kazproflab.kz/g9714401-sistemy-menedzhmenta-laboratorij",
+    "path": "/g9714401-sistemy-menedzhmenta-laboratorij",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714401-sistemy-menedzhmenta-laboratorij",
+    "file": "g9714401-sistemy-menedzhmenta-laboratorij.html",
+    "bytes": 53241
+  },
+  {
+    "url": "https://kazproflab.kz/g9714402-sistemy-menedzhmenta-predpriyatij",
+    "path": "/g9714402-sistemy-menedzhmenta-predpriyatij",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714402-sistemy-menedzhmenta-predpriyatij",
+    "file": "g9714402-sistemy-menedzhmenta-predpriyatij.html",
+    "bytes": 78004
+  },
+  {
+    "url": "https://kazproflab.kz/g9714404-tehnicheskij-metodicheskij-konsalting",
+    "path": "/g9714404-tehnicheskij-metodicheskij-konsalting",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9714404-tehnicheskij-metodicheskij-konsalting",
+    "file": "g9714404-tehnicheskij-metodicheskij-konsalting.html",
+    "bytes": 53590
+  },
+  {
+    "url": "https://kazproflab.kz/g9715854-provajdery-proverki-kvalifikatsii",
+    "path": "/g9715854-provajdery-proverki-kvalifikatsii",
+    "status": 200,
+    "finalUrl": "https://kazproflab.kz/g9715854-provajdery-proverki-kvalifikatsii",
+    "file": "g9715854-provajdery-proverki-kvalifikatsii.html",
+    "bytes": 53035
+  }
+]

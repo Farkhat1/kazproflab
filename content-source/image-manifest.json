@@ -1,0 +1,650 @@
+[
+  {
+    "sourceUrl": "https://images.satu.kz/237396078_w640_h2048_icons8_checkmark_100.png?fresh=1&PIMAGE_ID=237396078",
+    "alt": "Детали трубопровода",
+    "sourcePaths": [
+      "/"
+    ],
+    "filename": "2d23e0732e-237396078_w640_h2048_icons8_checkmark_100.png",
+    "localUrl": "/assets/imported/2d23e0732e-237396078_w640_h2048_icons8_checkmark_100.png",
+    "status": 200,
+    "bytes": 1072,
+    "contentType": "image/webp"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243568021_243568021.jpg",
+    "alt": "Баннер КазПроф Лаб",
+    "sourcePaths": [
+      "/"
+    ],
+    "filename": "70894ab608-243568021_243568021.jpg",
+    "localUrl": "/assets/imported/70894ab608-243568021_243568021.jpg",
+    "status": 200,
+    "bytes": 1417186,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://satu.kz/cloud-cgi/static/satu-content/Nov25/57490.jpg",
+    "alt": "Оригинальное фоновое изображение",
+    "sourcePaths": [
+      "/"
+    ],
+    "filename": "d0f0fb1098-57490.jpg",
+    "localUrl": "/assets/imported/d0f0fb1098-57490.jpg",
+    "status": 200,
+    "bytes": 200791,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531361_obuchenie-gost-isoiec.jpg",
+    "alt": "Обучение ГОСТ ISO/IEC 17025-2019 для испытательных и калибровочных лабораторий, фото 1",
+    "sourcePaths": [
+      "/p128297198-obuchenie-gost-isoiec.html"
+    ],
+    "filename": "b525bbee43-243531361_obuchenie-gost-isoiec.jpg",
+    "localUrl": "/assets/imported/b525bbee43-243531361_obuchenie-gost-isoiec.jpg",
+    "status": 200,
+    "bytes": 1591643,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531359_st-rk-iso.jpg",
+    "alt": "СТ РК ISO 15189-2023 — обучение для медицинских лабораторий, фото 1",
+    "sourcePaths": [
+      "/p128297202-iso-15189-2023.html"
+    ],
+    "filename": "c134797396-243531359_st-rk-iso.jpg",
+    "localUrl": "/assets/imported/c134797396-243531359_st-rk-iso.jpg",
+    "status": 200,
+    "bytes": 1366915,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531356_gost-isoiec-17043-2025.jpg",
+    "alt": "ГОСТ ISO/IEC 17043-2025 — обучение для провайдеров проверки квалификации, фото 1",
+    "sourcePaths": [
+      "/p128297206-gost-isoiec-17043.html"
+    ],
+    "filename": "d372fc1dda-243531356_gost-isoiec-17043-2025.jpg",
+    "localUrl": "/assets/imported/d372fc1dda-243531356_gost-isoiec-17043-2025.jpg",
+    "status": 200,
+    "bytes": 1693336,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531363_st-rk-iso.jpg",
+    "alt": "СТ РК ISO 9001-2016 — обучение по системе менеджмента качества, фото 1",
+    "sourcePaths": [
+      "/p128297210-iso-9001-2016.html"
+    ],
+    "filename": "c010382675-243531363_st-rk-iso.jpg",
+    "localUrl": "/assets/imported/c010382675-243531363_st-rk-iso.jpg",
+    "status": 200,
+    "bytes": 1396643,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531334_otsenka-neopredelennosti-rezultatov.jpg",
+    "alt": "Оценка неопределенности результатов измерений — обучение для лабораторий, фото 1",
+    "sourcePaths": [
+      "/p134381471-otsenka-neopredelennosti-rezultatov.html"
+    ],
+    "filename": "e78cbf1d8a-243531334_otsenka-neopredelennosti-rezultatov.jpg",
+    "localUrl": "/assets/imported/e78cbf1d8a-243531334_otsenka-neopredelennosti-rezultatov.jpg",
+    "status": 200,
+    "bytes": 1421491,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531349_podgotovka-vnutrennih-auditorov.jpg",
+    "alt": "Подготовка внутренних аудиторов лабораторий по ISO 19011, фото 1",
+    "sourcePaths": [
+      "/p128297214-podgotovka-vnutrennih-auditorov.html"
+    ],
+    "filename": "13efe75280-243531349_podgotovka-vnutrennih-auditorov.jpg",
+    "localUrl": "/assets/imported/13efe75280-243531349_podgotovka-vnutrennih-auditorov.jpg",
+    "status": 200,
+    "bytes": 1677969,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531327_validatsiya-i-verifikatsiya.jpg",
+    "alt": "Валидация и верификация методов испытаний — обучение для лабораторий, фото 1",
+    "sourcePaths": [
+      "/p134381479-validatsiya-verifikatsiya-metodov.html"
+    ],
+    "filename": "a4da733a4f-243531327_validatsiya-i-verifikatsiya.jpg",
+    "localUrl": "/assets/imported/a4da733a4f-243531327_validatsiya-i-verifikatsiya.jpg",
+    "status": 200,
+    "bytes": 1309673,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531372_vnutrilaboratornyj-kontrol-kachestva.jpg",
+    "alt": "Внутрилабораторный контроль качества и контрольные карты — обучение для лабораторий, фото 1",
+    "sourcePaths": [
+      "/p134387454-vnutrilaboratornyj-kontrol-kachestva.html"
+    ],
+    "filename": "c1bffb048e-243531372_vnutrilaboratornyj-kontrol-kachestva.jpg",
+    "localUrl": "/assets/imported/c1bffb048e-243531372_vnutrilaboratornyj-kontrol-kachestva.jpg",
+    "status": 200,
+    "bytes": 1395349,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531389_vnutrennij-audit-ispytatelnoj.jpg",
+    "alt": "Внутренний аудит испытательной лаборатории по ГОСТ ISO/IEC 17025-2019, фото 1",
+    "sourcePaths": [
+      "/p134387466-vnutrennij-audit-ispytatelnoj.html"
+    ],
+    "filename": "2056f62892-243531389_vnutrennij-audit-ispytatelnoj.jpg",
+    "localUrl": "/assets/imported/2056f62892-243531389_vnutrennij-audit-ispytatelnoj.jpg",
+    "status": 200,
+    "bytes": 1392651,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531396_soprovozhdenie-ispytatelnoj-laboratorii.jpg",
+    "alt": "Сопровождение испытательной лаборатории при аккредитации и подтверждении компетентности, фото 1",
+    "sourcePaths": [
+      "/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html"
+    ],
+    "filename": "940e9e239e-243531396_soprovozhdenie-ispytatelnoj-laboratorii.jpg",
+    "localUrl": "/assets/imported/940e9e239e-243531396_soprovozhdenie-ispytatelnoj-laboratorii.jpg",
+    "status": 200,
+    "bytes": 1386433,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533509_statisticheskie-metody-proverki.jpg",
+    "alt": "Статистические методы проверки квалификации и межлабораторных сличений — обучение по ISO 13528, фото 1",
+    "sourcePaths": [
+      "/p134404104-statisticheskie-metody-proverki.html"
+    ],
+    "filename": "223deca5b5-243533509_statisticheskie-metody-proverki.jpg",
+    "localUrl": "/assets/imported/223deca5b5-243533509_statisticheskie-metody-proverki.jpg",
+    "status": 200,
+    "bytes": 1293791,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533539_razrabotka-i-vnedrenie.jpg",
+    "alt": "Разработка и внедрение системы менеджмента безопасности труда и охраны здоровья по ISO 45001, фото 1",
+    "sourcePaths": [
+      "/p134404126-razrabotka-vnedrenie-sistemy.html"
+    ],
+    "filename": "719f7fd70b-243533539_razrabotka-i-vnedrenie.jpg",
+    "localUrl": "/assets/imported/719f7fd70b-243533539_razrabotka-i-vnedrenie.jpg",
+    "status": 200,
+    "bytes": 1399618,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533526_razrabotka-i-vnedrenie.jpg",
+    "alt": "Разработка и внедрение системы экологического менеджмента по СТ РК ISO 14001-2016, фото 1",
+    "sourcePaths": [
+      "/p134404124-razrabotka-vnedrenie-sistemy.html"
+    ],
+    "filename": "a69581cbe3-243533526_razrabotka-i-vnedrenie.jpg",
+    "localUrl": "/assets/imported/a69581cbe3-243533526_razrabotka-i-vnedrenie.jpg",
+    "status": 200,
+    "bytes": 1514530,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533523_razrabotka-i-vnedrenie.jpg",
+    "alt": "Разработка и внедрение системы менеджмента качества по СТ РК ISO 9001-2016  Описание позиции, фото 1",
+    "sourcePaths": [
+      "/p134404119-razrabotka-vnedrenie-sistemy.html"
+    ],
+    "filename": "d768830599-243533523_razrabotka-i-vnedrenie.jpg",
+    "localUrl": "/assets/imported/d768830599-243533523_razrabotka-i-vnedrenie.jpg",
+    "status": 200,
+    "bytes": 1262190,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533556_menedzhment-riskov-po.jpg",
+    "alt": "Менеджмент рисков по ISO 31000:2018 — обучение управлению рисками, фото 1",
+    "sourcePaths": [
+      "/p134404155-menedzhment-riskov-iso.html"
+    ],
+    "filename": "96dd534c20-243533556_menedzhment-riskov-po.jpg",
+    "localUrl": "/assets/imported/96dd534c20-243533556_menedzhment-riskov-po.jpg",
+    "status": 200,
+    "bytes": 1326648,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533549_razrabotka-i-vnedrenie.jpg",
+    "alt": "Разработка и внедрение системы менеджмента противодействия коррупции по ISO 37001:2025, фото 1",
+    "sourcePaths": [
+      "/p134404149-razrabotka-vnedrenie-sistemy.html"
+    ],
+    "filename": "e9803b8ae2-243533549_razrabotka-i-vnedrenie.jpg",
+    "localUrl": "/assets/imported/e9803b8ae2-243533549_razrabotka-i-vnedrenie.jpg",
+    "status": 200,
+    "bytes": 1402453,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533557_gost-isoiec-17065-2013.jpg",
+    "alt": "ГОСТ ISO/IEC 17065-2013 — обучение для органов по подтверждению соответствия продукции (ОПС П), фото 1",
+    "sourcePaths": [
+      "/p134404158-gost-isoiec-17065.html"
+    ],
+    "filename": "e2937c7153-243533557_gost-isoiec-17065-2013.jpg",
+    "localUrl": "/assets/imported/e2937c7153-243533557_gost-isoiec-17065-2013.jpg",
+    "status": 200,
+    "bytes": 1318189,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533558_vnutrennij-audit-ops.jpg",
+    "alt": "Внутренний аудит ОПС П по ГОСТ ISO/IEC 17065-2013, фото 1",
+    "sourcePaths": [
+      "/p134404159-vnutrennij-audit-ops.html"
+    ],
+    "filename": "7d7e294238-243533558_vnutrennij-audit-ops.jpg",
+    "localUrl": "/assets/imported/7d7e294238-243533558_vnutrennij-audit-ops.jpg",
+    "status": 200,
+    "bytes": 1509926,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533561_st-rk-isoiec.jpg",
+    "alt": "СТ РК ISO/IEC 17021-1, 17021-2, 17021-3 — обучение для ОПС СМ, фото 1",
+    "sourcePaths": [
+      "/p134404165-isoiec-17021-17021.html"
+    ],
+    "filename": "33d8981b98-243533561_st-rk-isoiec.jpg",
+    "localUrl": "/assets/imported/33d8981b98-243533561_st-rk-isoiec.jpg",
+    "status": 200,
+    "bytes": 1418691,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533559_soprovozhdenie-ops-p.jpg",
+    "alt": "Сопровождение ОПС П при аккредитации и подтверждении компетентности по ГОСТ ISO/IEC 17065-2013, фото 1",
+    "sourcePaths": [
+      "/p134404161-soprovozhdenie-ops-pri.html"
+    ],
+    "filename": "d58480c194-243533559_soprovozhdenie-ops-p.jpg",
+    "localUrl": "/assets/imported/d58480c194-243533559_soprovozhdenie-ops-p.jpg",
+    "status": 200,
+    "bytes": 1425013,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533583_podgotovka-i-povyshenie.jpg",
+    "alt": "Подготовка и повышение квалификации экспертов-аудиторов по СМК СТ РК ISO 9001-2016 — 40/80 часов, фото 1",
+    "sourcePaths": [
+      "/p134404167-podgotovka-povyshenie-kvalifikatsii.html"
+    ],
+    "filename": "fb3086fc03-243533583_podgotovka-i-povyshenie.jpg",
+    "localUrl": "/assets/imported/fb3086fc03-243533583_podgotovka-i-povyshenie.jpg",
+    "status": 200,
+    "bytes": 1455630,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533584_podgotovka-i-povyshenie.jpg",
+    "alt": "Подготовка и повышение квалификации экспертов-аудиторов по СЭМ СТ РК ISO 14001-2016 — 40/80 часов, фото 1",
+    "sourcePaths": [
+      "/p134404219-podgotovka-povyshenie-kvalifikatsii.html"
+    ],
+    "filename": "f6f24aad28-243533584_podgotovka-i-povyshenie.jpg",
+    "localUrl": "/assets/imported/f6f24aad28-243533584_podgotovka-i-povyshenie.jpg",
+    "status": 200,
+    "bytes": 1487270,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533593_vnutrennij-audit-ops.jpg",
+    "alt": "Внутренний аудит ОПС СМ по серии СТ РК ISO/IEC 17021, фото 1",
+    "sourcePaths": [
+      "/p134405135-vnutrennij-audit-ops.html"
+    ],
+    "filename": "ebd110bd4d-243533593_vnutrennij-audit-ops.jpg",
+    "localUrl": "/assets/imported/ebd110bd4d-243533593_vnutrennij-audit-ops.jpg",
+    "status": 200,
+    "bytes": 1536819,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533597_soprovozhdenie-ops-sm.jpg",
+    "alt": "Сопровождение ОПС СМ при аккредитации и подтверждении компетентности по серии СТ РК ISO/IEC 17021, фото 1",
+    "sourcePaths": [
+      "/p134405603-soprovozhdenie-ops-pri.html"
+    ],
+    "filename": "3741385246-243533597_soprovozhdenie-ops-sm.jpg",
+    "localUrl": "/assets/imported/3741385246-243533597_soprovozhdenie-ops-sm.jpg",
+    "status": 200,
+    "bytes": 1566240,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533599_menedzher-po-kachestvu.jpg",
+    "alt": "Менеджер по качеству испытательной лаборатории — подготовка и повышение квалификации 40/80 часов, фото 1",
+    "sourcePaths": [
+      "/p134405768-menedzher-kachestvu-ispytatelnoj.html"
+    ],
+    "filename": "3818e9cbb2-243533599_menedzher-po-kachestvu.jpg",
+    "localUrl": "/assets/imported/3818e9cbb2-243533599_menedzher-po-kachestvu.jpg",
+    "status": 200,
+    "bytes": 1462800,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533602_spetsialist-po-vnutrilaboratornomu.jpg",
+    "alt": "Специалист по внутрилабораторному контролю качества (ВКК) — подготовка и повышение квалификации 40/80 часов, фото 1",
+    "sourcePaths": [
+      "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html"
+    ],
+    "filename": "4299ed61e1-243533602_spetsialist-po-vnutrilaboratornomu.jpg",
+    "localUrl": "/assets/imported/4299ed61e1-243533602_spetsialist-po-vnutrilaboratornomu.jpg",
+    "status": 200,
+    "bytes": 1488155,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535617_upravlenie-i-aktualizatsiya.jpg",
+    "alt": "Управление и актуализация нормативных документов по стандартизации — обучение, фото 1",
+    "sourcePaths": [
+      "/p134408346-upravlenie-aktualizatsiya-normativnyh.html"
+    ],
+    "filename": "76824beaa8-243535617_upravlenie-i-aktualizatsiya.jpg",
+    "localUrl": "/assets/imported/76824beaa8-243535617_upravlenie-i-aktualizatsiya.jpg",
+    "status": 200,
+    "bytes": 1460049,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535618_vnutrennij-audit-provajdera.jpg",
+    "alt": "Внутренний аудит провайдера проверки квалификации (ППК) по ГОСТ ISO/IEC 17043-2025, фото 1",
+    "sourcePaths": [
+      "/p134408347-vnutrennij-audit-provajdera.html"
+    ],
+    "filename": "7d55d36deb-243535618_vnutrennij-audit-provajdera.jpg",
+    "localUrl": "/assets/imported/7d55d36deb-243535618_vnutrennij-audit-provajdera.jpg",
+    "status": 200,
+    "bytes": 1522409,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535621_soprovozhdenie-ppk-pri.jpg",
+    "alt": "Сопровождение ППК при аккредитации и подтверждении компетентности по ГОСТ ISO/IEC 17043-2025, фото 1",
+    "sourcePaths": [
+      "/p134408348-soprovozhdenie-ppk-pri.html"
+    ],
+    "filename": "9cb178f83f-243535621_soprovozhdenie-ppk-pri.jpg",
+    "localUrl": "/assets/imported/9cb178f83f-243535621_soprovozhdenie-ppk-pri.jpg",
+    "status": 200,
+    "bytes": 1474301,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535631_diagnosticheskij-audit-laboratorii.jpg",
+    "alt": "Диагностический аудит лаборатории — оценка текущего состояния и готовности к аккредитации, фото 1",
+    "sourcePaths": [
+      "/p134408356-diagnosticheskij-audit-laboratorii.html"
+    ],
+    "filename": "47c963a7d3-243535631_diagnosticheskij-audit-laboratorii.jpg",
+    "localUrl": "/assets/imported/47c963a7d3-243535631_diagnosticheskij-audit-laboratorii.jpg",
+    "status": 200,
+    "bytes": 1497956,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535639_otsenivanie-neopredelennosti-izmerenij.jpg",
+    "alt": "Оценивание неопределенности измерений и результатов испытаний — расчет и методическое сопровождение, фото 1",
+    "sourcePaths": [
+      "/p134408364-otsenivanie-neopredelennosti-izmerenij.html"
+    ],
+    "filename": "d584b8d787-243535639_otsenivanie-neopredelennosti-izmerenij.jpg",
+    "localUrl": "/assets/imported/d584b8d787-243535639_otsenivanie-neopredelennosti-izmerenij.jpg",
+    "status": 200,
+    "bytes": 1485579,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535676_podgotovka-laboratorii-k.jpg",
+    "alt": "Подготовка лаборатории к аккредитации и подтверждению компетентности, фото 1",
+    "sourcePaths": [
+      "/p134408382-podgotovka-laboratorii-akkreditatsii.html"
+    ],
+    "filename": "7bcd5ef954-243535676_podgotovka-laboratorii-k.jpg",
+    "localUrl": "/assets/imported/7bcd5ef954-243535676_podgotovka-laboratorii-k.jpg",
+    "status": 200,
+    "bytes": 1528914,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243546211_gost-isoiec-17024-2014.jpg",
+    "alt": "ГОСТ ISO/IEC 17024-2014 — обучение для органов по сертификации персонала, фото 1",
+    "sourcePaths": [
+      "/p134427870-gost-isoiec-17024.html"
+    ],
+    "filename": "5082d75821-243546211_gost-isoiec-17024-2014.jpg",
+    "localUrl": "/assets/imported/5082d75821-243546211_gost-isoiec-17024-2014.jpg",
+    "status": 200,
+    "bytes": 1437096,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/237554166_w215_h266_obuchenie-i-povyshenie.jpg",
+    "alt": "Обучение и повышение квалификации",
+    "sourcePaths": [
+      "/g9499437-obuchenie-povyshenie-kvalifikatsii"
+    ],
+    "filename": "85abc70fc5-237554166_w215_h266_obuchenie-i-povyshenie.jpg",
+    "localUrl": "/assets/imported/85abc70fc5-237554166_w215_h266_obuchenie-i-povyshenie.jpg",
+    "status": 200,
+    "bytes": 10847,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://satu.kz/cloud-cgi/static/satu-content/Nov25/57490-2.jpg",
+    "alt": "Оригинальное фоновое изображение",
+    "sourcePaths": [
+      "/g9499437-obuchenie-povyshenie-kvalifikatsii"
+    ],
+    "filename": "cb73810c42-57490-2.jpg",
+    "localUrl": "/assets/imported/cb73810c42-57490-2.jpg",
+    "status": 200,
+    "bytes": 349124,
+    "contentType": "image/jpeg"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531361_w215_h266_laboratorii-i-metrologiya.jpg",
+    "alt": "Лаборатории и метрология",
+    "sourcePaths": [
+      "/g9714389-laboratorii-metrologiya"
+    ],
+    "filename": "919623be5e-243531361_w215_h266_laboratorii-i-metrologiya.jpg",
+    "localUrl": "/assets/imported/919623be5e-243531361_w215_h266_laboratorii-i-metrologiya.jpg",
+    "status": 200,
+    "bytes": 73719,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531363_w215_h266_sistemy-menedzhmenta-predpriyatij.jpg",
+    "alt": "Системы менеджмента предприятий",
+    "sourcePaths": [
+      "/g9714390-sistemy-menedzhmenta-predpriyatij"
+    ],
+    "filename": "db56769aa2-243531363_w215_h266_sistemy-menedzhmenta-predpriyatij.jpg",
+    "localUrl": "/assets/imported/db56769aa2-243531363_w215_h266_sistemy-menedzhmenta-predpriyatij.jpg",
+    "status": 200,
+    "bytes": 66757,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533557_w215_h266_organy-po-podtverzhdeniyu.jpg",
+    "alt": "Органы по подтверждению соответствия продукции (ОПС П)",
+    "sourcePaths": [
+      "/g9714391-organy-podtverzhdeniyu-sootvetstviya"
+    ],
+    "filename": "bba20fc927-243533557_w215_h266_organy-po-podtverzhdeniyu.jpg",
+    "localUrl": "/assets/imported/bba20fc927-243533557_w215_h266_organy-po-podtverzhdeniyu.jpg",
+    "status": 200,
+    "bytes": 57175,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531356_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "alt": "Провайдеры проверки квалификации (ППК)",
+    "sourcePaths": [
+      "/g9714393-provajdery-proverki-kvalifikatsii"
+    ],
+    "filename": "392d372c69-243531356_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "localUrl": "/assets/imported/392d372c69-243531356_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "status": 200,
+    "bytes": 76238,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533561_w215_h266_eksperty-auditory-i-organy.jpg",
+    "alt": "Эксперты-аудиторы и Органы по подтверждению соответствия (ОПС СМ)",
+    "sourcePaths": [
+      "/g9714392-eksperty-auditory-organy"
+    ],
+    "filename": "9c23bd2429-243533561_w215_h266_eksperty-auditory-i-organy.jpg",
+    "localUrl": "/assets/imported/9c23bd2429-243533561_w215_h266_eksperty-auditory-i-organy.jpg",
+    "status": 200,
+    "bytes": 56267,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531389_w215_h266_vnutrennie-audity.jpg",
+    "alt": "Внутренние аудиты",
+    "sourcePaths": [
+      "/g9714394-vnutrennie-audity"
+    ],
+    "filename": "b415e7ca81-243531389_w215_h266_vnutrennie-audity.jpg",
+    "localUrl": "/assets/imported/b415e7ca81-243531389_w215_h266_vnutrennie-audity.jpg",
+    "status": 200,
+    "bytes": 66732,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535631_w215_h266_diagnosticheskij-audit-analiz.jpg",
+    "alt": "Диагностический аудит (анализ текущего состояния)",
+    "sourcePaths": [
+      "/g9714395-diagnosticheskij-audit-analiz"
+    ],
+    "filename": "4e63ca1676-243535631_w215_h266_diagnosticheskij-audit-analiz.jpg",
+    "localUrl": "/assets/imported/4e63ca1676-243535631_w215_h266_diagnosticheskij-audit-analiz.jpg",
+    "status": 200,
+    "bytes": 69502,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533558_w215_h266_organy-po-podtverzhdeniyu.jpg",
+    "alt": "Органы по подтверждению соответствия ОПС П и ОПС СМ",
+    "sourcePaths": [
+      "/g9714396-organy-podtverzhdeniyu-sootvetstviya"
+    ],
+    "filename": "f287cbb7df-243533558_w215_h266_organy-po-podtverzhdeniyu.jpg",
+    "localUrl": "/assets/imported/f287cbb7df-243533558_w215_h266_organy-po-podtverzhdeniyu.jpg",
+    "status": 200,
+    "bytes": 66641,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535618_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "alt": "Провайдеры проверки квалификации (ППК)",
+    "sourcePaths": [
+      "/g9714398-provajdery-proverki-kvalifikatsii"
+    ],
+    "filename": "72d779e971-243535618_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "localUrl": "/assets/imported/72d779e971-243535618_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "status": 200,
+    "bytes": 68031,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533559_w215_h266_organy-otsenki-sootvetstviya.jpg",
+    "alt": "Органы оценки соответствия",
+    "sourcePaths": [
+      "/g9714399-organy-otsenki-sootvetstviya"
+    ],
+    "filename": "e1a12df597-243533559_w215_h266_organy-otsenki-sootvetstviya.jpg",
+    "localUrl": "/assets/imported/e1a12df597-243533559_w215_h266_organy-otsenki-sootvetstviya.jpg",
+    "status": 200,
+    "bytes": 63769,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535676_w215_h266_laboratorii.jpg",
+    "alt": "Лаборатории",
+    "sourcePaths": [
+      "/g9714400-laboratorii"
+    ],
+    "filename": "071f71e34a-243535676_w215_h266_laboratorii.jpg",
+    "localUrl": "/assets/imported/071f71e34a-243535676_w215_h266_laboratorii.jpg",
+    "status": 200,
+    "bytes": 70369,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243531396_w215_h266_sistemy-menedzhmenta-laboratorij.jpg",
+    "alt": "Системы менеджмента лабораторий",
+    "sourcePaths": [
+      "/g9714401-sistemy-menedzhmenta-laboratorij"
+    ],
+    "filename": "dad3d62f32-243531396_w215_h266_sistemy-menedzhmenta-laboratorij.jpg",
+    "localUrl": "/assets/imported/dad3d62f32-243531396_w215_h266_sistemy-menedzhmenta-laboratorij.jpg",
+    "status": 200,
+    "bytes": 65356,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243533523_w215_h266_sistemy-menedzhmenta-predpriyatij.jpg",
+    "alt": "Системы менеджмента предприятий",
+    "sourcePaths": [
+      "/g9714402-sistemy-menedzhmenta-predpriyatij"
+    ],
+    "filename": "8abc01384f-243533523_w215_h266_sistemy-menedzhmenta-predpriyatij.jpg",
+    "localUrl": "/assets/imported/8abc01384f-243533523_w215_h266_sistemy-menedzhmenta-predpriyatij.jpg",
+    "status": 200,
+    "bytes": 59301,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535639_w215_h266_tehnicheskij-i-metodicheskij.jpg",
+    "alt": "Технический и методический консалтинг",
+    "sourcePaths": [
+      "/g9714404-tehnicheskij-metodicheskij-konsalting"
+    ],
+    "filename": "dc9fffd3bf-243535639_w215_h266_tehnicheskij-i-metodicheskij.jpg",
+    "localUrl": "/assets/imported/dc9fffd3bf-243535639_w215_h266_tehnicheskij-i-metodicheskij.jpg",
+    "status": 200,
+    "bytes": 69553,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/243535621_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "alt": "Провайдеры проверки квалификации (ППК)",
+    "sourcePaths": [
+      "/g9715854-provajdery-proverki-kvalifikatsii"
+    ],
+    "filename": "e4ce86d878-243535621_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "localUrl": "/assets/imported/e4ce86d878-243535621_w215_h266_provajdery-proverki-kvalifikatsii.jpg",
+    "status": 200,
+    "bytes": 66960,
+    "contentType": "image/png"
+  },
+  {
+    "sourceUrl": "https://images.satu.kz/239575480_w140_h70_too-kazprof-lab.jpg",
+    "alt": "ТОО \"КазПроф Лаб\"",
+    "sourcePaths": [
+      "/"
+    ],
+    "filename": "2183b02c33-239575480_w140_h70_too-kazprof-lab.jpg",
+    "localUrl": "/assets/imported/2183b02c33-239575480_w140_h70_too-kazprof-lab.jpg",
+    "status": 200,
+    "bytes": 7118,
+    "contentType": "image/png"
+  }
+]

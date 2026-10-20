@@ -1,0 +1,1484 @@
+{
+  "baseUrl": "http://127.0.0.1:4174",
+  "startedAt": "2026-10-20T08:16:55.592Z",
+  "browser": "msedge",
+  "expectedPrerender": true,
+  "scope": "full",
+  "sourcePageCount": 59,
+  "routeChecks": [
+    {
+      "path": "/about_us",
+      "type": "about",
+      "title": "О нас",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2675,
+        "renderedCharacters": 2675
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/contacts",
+      "type": "contacts",
+      "title": "Контакты",
+      "bodyVerification": {
+        "mode": "contact fields and complete directions / schedule",
+        "missingFields": [],
+        "detailsMatch": true
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/return_policy",
+      "type": "policy",
+      "title": "Возврат и обмен",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1912,
+        "renderedCharacters": 1912
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/",
+      "type": "home",
+      "title": "Экспертнаяподдержкавашей лаборатории",
+      "bodyVerification": {
+        "mode": "all structured home content including hidden accordion panels",
+        "fragments": 55,
+        "missing": []
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/product_list",
+      "type": "catalog",
+      "title": "Решения для вашей задачи",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/delivery_info",
+      "type": "policy",
+      "title": "Условия доставки и оплаты",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 488,
+        "renderedCharacters": 488
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/testimonials",
+      "type": "reviews",
+      "title": "Отзывы о компании ТОО \"КазПроф Лаб\"",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 46,
+        "renderedCharacters": 46
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "type": "service",
+      "title": "Обучение ГОСТ ISO/IEC 17025-2019 для испытательных и калибровочных лабораторий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 826,
+        "renderedCharacters": 826
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297202-iso-15189-2023.html",
+      "type": "service",
+      "title": "СТ РК ISO 15189-2023 — обучение для медицинских лабораторий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 966,
+        "renderedCharacters": 966
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297206-gost-isoiec-17043.html",
+      "type": "service",
+      "title": "ГОСТ ISO/IEC 17043-2025 — обучение для провайдеров проверки квалификации",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1130,
+        "renderedCharacters": 1130
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297210-iso-9001-2016.html",
+      "type": "service",
+      "title": "СТ РК ISO 9001-2016 — обучение по системе менеджмента качества",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1124,
+        "renderedCharacters": 1124
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134381471-otsenka-neopredelennosti-rezultatov.html",
+      "type": "service",
+      "title": "Оценка неопределенности результатов измерений — обучение для лабораторий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1039,
+        "renderedCharacters": 1039
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297214-podgotovka-vnutrennih-auditorov.html",
+      "type": "service",
+      "title": "Подготовка внутренних аудиторов лабораторий по ISO 19011",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 982,
+        "renderedCharacters": 982
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134381479-validatsiya-verifikatsiya-metodov.html",
+      "type": "service",
+      "title": "Валидация и верификация методов испытаний — обучение для лабораторий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1102,
+        "renderedCharacters": 1102
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+      "type": "service",
+      "title": "Внутрилабораторный контроль качества и контрольные карты — обучение для лабораторий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1141,
+        "renderedCharacters": 1141
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134387466-vnutrennij-audit-ispytatelnoj.html",
+      "type": "service",
+      "title": "Внутренний аудит испытательной лаборатории по ГОСТ ISO/IEC 17025-2019",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1671,
+        "renderedCharacters": 1671
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+      "type": "service",
+      "title": "Сопровождение испытательной лаборатории при аккредитации и подтверждении компетентности",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2030,
+        "renderedCharacters": 2030
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404104-statisticheskie-metody-proverki.html",
+      "type": "service",
+      "title": "Статистические методы проверки квалификации и межлабораторных сличений — обучение по ISO 13528",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1682,
+        "renderedCharacters": 1682
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404126-razrabotka-vnedrenie-sistemy.html",
+      "type": "service",
+      "title": "Разработка и внедрение системы менеджмента безопасности труда и охраны здоровья по ISO 45001",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1920,
+        "renderedCharacters": 1920
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404124-razrabotka-vnedrenie-sistemy.html",
+      "type": "service",
+      "title": "Разработка и внедрение системы экологического менеджмента по СТ РК ISO 14001-2016",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1906,
+        "renderedCharacters": 1906
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404119-razrabotka-vnedrenie-sistemy.html",
+      "type": "service",
+      "title": "Разработка и внедрение системы менеджмента качества по СТ РК ISO 9001-2016",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1900,
+        "renderedCharacters": 1900
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404155-menedzhment-riskov-iso.html",
+      "type": "service",
+      "title": "Менеджмент рисков по ISO 31000:2018 — обучение управлению рисками",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1315,
+        "renderedCharacters": 1315
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404149-razrabotka-vnedrenie-sistemy.html",
+      "type": "service",
+      "title": "Разработка и внедрение системы менеджмента противодействия коррупции по ISO 37001:2025",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2125,
+        "renderedCharacters": 2125
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404158-gost-isoiec-17065.html",
+      "type": "service",
+      "title": "ГОСТ ISO/IEC 17065-2013 — обучение для органов по подтверждению соответствия продукции (ОПС П)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2127,
+        "renderedCharacters": 2127
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404159-vnutrennij-audit-ops.html",
+      "type": "service",
+      "title": "Внутренний аудит ОПС П по ГОСТ ISO/IEC 17065-2013",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1880,
+        "renderedCharacters": 1880
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404165-isoiec-17021-17021.html",
+      "type": "service",
+      "title": "СТ РК ISO/IEC 17021-1, 17021-2, 17021-3 — обучение для ОПС СМ",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2696,
+        "renderedCharacters": 2696
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404161-soprovozhdenie-ops-pri.html",
+      "type": "service",
+      "title": "Сопровождение ОПС П при аккредитации и подтверждении компетентности по ГОСТ ISO/IEC 17065-2013",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2076,
+        "renderedCharacters": 2076
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+      "type": "service",
+      "title": "Подготовка и повышение квалификации экспертов-аудиторов по СМК СТ РК ISO 9001-2016 — 40/80 часов",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2024,
+        "renderedCharacters": 2024
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+      "type": "service",
+      "title": "Подготовка и повышение квалификации экспертов-аудиторов по СЭМ СТ РК ISO 14001-2016 — 40/80 часов",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2305,
+        "renderedCharacters": 2305
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134405135-vnutrennij-audit-ops.html",
+      "type": "service",
+      "title": "Внутренний аудит ОПС СМ по серии СТ РК ISO/IEC 17021",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2301,
+        "renderedCharacters": 2301
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134405603-soprovozhdenie-ops-pri.html",
+      "type": "service",
+      "title": "Сопровождение ОПС СМ при аккредитации и подтверждении компетентности по серии СТ РК ISO/IEC 17021",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2425,
+        "renderedCharacters": 2425
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+      "type": "service",
+      "title": "Менеджер по качеству испытательной лаборатории — подготовка и повышение квалификации 40/80 часов",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2982,
+        "renderedCharacters": 2982
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "type": "service",
+      "title": "Специалист по внутрилабораторному контролю качества (ВКК) — подготовка и повышение квалификации 40/80 часов",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 3029,
+        "renderedCharacters": 3029
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+      "type": "service",
+      "title": "Управление и актуализация нормативных документов по стандартизации — обучение",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2591,
+        "renderedCharacters": 2591
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "type": "service",
+      "title": "Внутренний аудит провайдера проверки квалификации (ППК) по ГОСТ ISO/IEC 17043-2025",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2592,
+        "renderedCharacters": 2592
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134408348-soprovozhdenie-ppk-pri.html",
+      "type": "service",
+      "title": "Сопровождение ППК при аккредитации и подтверждении компетентности по ГОСТ ISO/IEC 17043-2025",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2850,
+        "renderedCharacters": 2850
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134408356-diagnosticheskij-audit-laboratorii.html",
+      "type": "service",
+      "title": "Диагностический аудит лаборатории — оценка текущего состояния и готовности к аккредитации",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 3180,
+        "renderedCharacters": 3180
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+      "type": "service",
+      "title": "Оценивание неопределенности измерений и результатов испытаний — расчет и методическое сопровождение",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2842,
+        "renderedCharacters": 2842
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+      "type": "service",
+      "title": "Подготовка лаборатории к аккредитации и подтверждению компетентности",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 3108,
+        "renderedCharacters": 3108
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/p134427870-gost-isoiec-17024.html",
+      "type": "service",
+      "title": "ГОСТ ISO/IEC 17024-2014 — обучение для органов по сертификации персонала",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 1648,
+        "renderedCharacters": 1648
+      },
+      "preRendered": true,
+      "imageCount": 1,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714386-podgotovka-otsenke-akkreditatsii",
+      "type": "category",
+      "title": "Подготовка к оценке и аккредитации",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "type": "category",
+      "title": "Обучение и повышение квалификации",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 2616,
+        "renderedCharacters": 2616
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714387-razrabotka-vnedrenie-sistem",
+      "type": "category",
+      "title": "Разработка и внедрение систем менеджмента",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714388-audit-otsenka",
+      "type": "category",
+      "title": "Аудит и оценка",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714389-laboratorii-metrologiya",
+      "type": "category",
+      "title": "Лаборатории и метрология",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714390-sistemy-menedzhmenta-predpriyatij",
+      "type": "category",
+      "title": "Системы менеджмента предприятий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+      "type": "category",
+      "title": "Органы по подтверждению соответствия продукции (ОПС П)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714393-provajdery-proverki-kvalifikatsii",
+      "type": "category",
+      "title": "Провайдеры проверки квалификации (ППК)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714392-eksperty-auditory-organy",
+      "type": "category",
+      "title": "Эксперты-аудиторы и Органы по подтверждению соответствия (ОПС СМ)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714394-vnutrennie-audity",
+      "type": "category",
+      "title": "Внутренние аудиты",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714395-diagnosticheskij-audit-analiz",
+      "type": "category",
+      "title": "Диагностический аудит (анализ текущего состояния)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+      "type": "category",
+      "title": "Органы по подтверждению соответствия ОПС П и ОПС СМ",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714398-provajdery-proverki-kvalifikatsii",
+      "type": "category",
+      "title": "Провайдеры проверки квалификации (ППК)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714399-organy-otsenki-sootvetstviya",
+      "type": "category",
+      "title": "Органы оценки соответствия",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714400-laboratorii",
+      "type": "category",
+      "title": "Лаборатории",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714401-sistemy-menedzhmenta-laboratorij",
+      "type": "category",
+      "title": "Системы менеджмента лабораторий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714402-sistemy-menedzhmenta-predpriyatij",
+      "type": "category",
+      "title": "Системы менеджмента предприятий",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9714404-tehnicheskij-metodicheskij-konsalting",
+      "type": "category",
+      "title": "Технический и методический консалтинг",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    },
+    {
+      "path": "/g9715854-provajdery-proverki-kvalifikatsii",
+      "type": "category",
+      "title": "Провайдеры проверки квалификации (ППК)",
+      "bodyVerification": {
+        "mode": "exact source body text with whitespace normalized",
+        "matches": true,
+        "sourceCharacters": 0,
+        "renderedCharacters": 0
+      },
+      "preRendered": true,
+      "imageCount": 0,
+      "errors": [],
+      "httpStatus": 200,
+      "brokenImages": [],
+      "resourceErrors": [],
+      "ok": true
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "path": "/",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/product_list",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/about_us",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/contacts",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/return_policy",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/testimonials",
+      "requestedWidth": 1536,
+      "viewportWidth": 1536,
+      "documentWidth": 1536,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/product_list",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/about_us",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/contacts",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/return_policy",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/testimonials",
+      "requestedWidth": 390,
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/product_list",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/about_us",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/contacts",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/return_policy",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    },
+    {
+      "path": "/testimonials",
+      "requestedWidth": 320,
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "offenders": [],
+      "ok": true
+    }
+  ],
+  "noJavaScriptChecks": [
+    {
+      "path": "/",
+      "javaScriptEnabled": false,
+      "httpStatus": 200,
+      "title": "Экспертнаяподдержкавашей лаборатории",
+      "h1Count": 1,
+      "bodyCharacters": 6629,
+      "rootHasContent": true,
+      "serviceCards": 0,
+      "navigationLinks": 37,
+      "whatsappHref": "https://wa.me/77004496383?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%92%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%3A%20https%3A%2F%2Fkazproflab.kz%2F",
+      "ok": true
+    },
+    {
+      "path": "/product_list",
+      "javaScriptEnabled": false,
+      "httpStatus": 200,
+      "title": "Решения для вашей задачи",
+      "h1Count": 1,
+      "bodyCharacters": 9270,
+      "rootHasContent": true,
+      "serviceCards": 33,
+      "navigationLinks": 62,
+      "whatsappHref": "https://wa.me/77004496383?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%92%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%3A%20https%3A%2F%2Fkazproflab.kz%2Fproduct_list",
+      "ok": true
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "javaScriptEnabled": false,
+      "httpStatus": 200,
+      "title": "Обучение ГОСТ ISO/IEC 17025-2019 для испытательных и калибровочных лабораторий",
+      "h1Count": 1,
+      "bodyCharacters": 2095,
+      "rootHasContent": true,
+      "serviceCards": 3,
+      "navigationLinks": 35,
+      "whatsappHref": "https://wa.me/77004496383?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%92%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%3A%20https%3A%2F%2Fkazproflab.kz%2Fp128297198-obuchenie-gost-isoiec.html",
+      "ok": true
+    },
+    {
+      "path": "/contacts",
+      "javaScriptEnabled": false,
+      "httpStatus": 200,
+      "title": "Контакты",
+      "h1Count": 1,
+      "bodyCharacters": 847,
+      "rootHasContent": true,
+      "serviceCards": 0,
+      "navigationLinks": 30,
+      "whatsappHref": "https://wa.me/77004496383?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C!%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%92%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%3A%20https%3A%2F%2Fkazproflab.kz%2Fcontacts",
+      "ok": true
+    }
+  ],
+  "interactionChecks": [
+    {
+      "name": "catalog filters, search, clear and reset",
+      "ok": true,
+      "durationMs": 442,
+      "totalServices": 33,
+      "filterCounts": {
+        "Обучение": 18,
+        "Аккредитация": 4,
+        "Аудит и оценка": 5,
+        "Системы менеджмента": 6
+      },
+      "searchResultCount": 5
+    },
+    {
+      "name": "category to subcategory to service navigation",
+      "ok": true,
+      "durationMs": 237,
+      "category": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "childPath": "/g9714389-laboratorii-metrologiya",
+      "servicePath": "/p128297198-obuchenie-gost-isoiec.html"
+    },
+    {
+      "name": "consultation validation, draft, focus trap and Escape",
+      "ok": true,
+      "durationMs": 574,
+      "draftPhone": "77004496383",
+      "draftWasIntercepted": true,
+      "sentMessages": 0
+    },
+    {
+      "name": "service consultation keeps selected topic",
+      "ok": true,
+      "durationMs": 194,
+      "topic": "Обучение ГОСТ ISO/IEC 17025-2019 для испытательных и калибровочных лабораторий"
+    },
+    {
+      "name": "home accordion preserves content and toggles panels",
+      "ok": true,
+      "durationMs": 485,
+      "panels": 6
+    },
+    {
+      "name": "mobile menu, Escape and route selection",
+      "ok": true,
+      "durationMs": 303,
+      "whatsappPosition": "left",
+      "phone": "77004496383"
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "/",
+      "width": 1536,
+      "file": "home-desktop.png"
+    },
+    {
+      "path": "/product_list",
+      "width": 1536,
+      "file": "catalog-desktop.png"
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "width": 1536,
+      "file": "service-desktop.png"
+    },
+    {
+      "path": "/contacts",
+      "width": 1536,
+      "file": "contacts-desktop.png"
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "file": "home-mobile.png"
+    },
+    {
+      "path": "/product_list",
+      "width": 390,
+      "file": "catalog-mobile.png"
+    },
+    {
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "width": 390,
+      "file": "service-mobile.png"
+    },
+    {
+      "path": "/contacts",
+      "width": 390,
+      "file": "contacts-mobile.png"
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "hydrationErrors": [],
+  "failedRequests": [],
+  "invalidLinks": [],
+  "failures": [],
+  "finishedAt": "2026-10-20T08:17:11.387Z",
+  "renderingMode": "prerendered HTML with client hydration",
+  "summary": {
+    "passed": true,
+    "routes": 59,
+    "routeFailures": 0,
+    "responsiveChecks": 27,
+    "responsiveFailures": 0,
+    "noJavaScriptChecks": 4,
+    "noJavaScriptFailures": 0,
+    "interactions": 6,
+    "interactionFailures": 0,
+    "invalidLinks": 0,
+    "hydrationErrors": 0,
+    "pageErrors": 0,
+    "totalFailures": 0
+  }
+}

@@ -1,0 +1,1458 @@
+{
+  "fetchedAt": "2026-10-20T07:54:27.289Z",
+  "source": "https://kazproflab.kz/sitemap.xml",
+  "counts": {
+    "about": 1,
+    "contacts": 1,
+    "policy": 2,
+    "home": 1,
+    "catalog": 1,
+    "reviews": 1,
+    "service": 33,
+    "category": 19
+  },
+  "totalPages": 59,
+  "uniquePaths": 59,
+  "pages": [
+    {
+      "url": "https://kazproflab.kz/about_us",
+      "path": "/about_us",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/about_us",
+      "file": "about_us.html",
+      "bytes": 45004,
+      "title": "О нас",
+      "type": "about",
+      "contentCharacters": 2698,
+      "bodyHtmlCharacters": 3646,
+      "images": 0,
+      "childCategories": 0,
+      "services": 0,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/contacts",
+      "path": "/contacts",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/contacts",
+      "file": "contacts.html",
+      "bytes": 37899,
+      "title": "Контакты",
+      "type": "contacts",
+      "contentCharacters": 593,
+      "bodyHtmlCharacters": 1173,
+      "images": 0,
+      "childCategories": 0,
+      "services": 0,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/return_policy",
+      "path": "/return_policy",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/return_policy",
+      "file": "return_policy.html",
+      "bytes": 42902,
+      "title": "Возврат и обмен",
+      "type": "policy",
+      "contentCharacters": 1933,
+      "bodyHtmlCharacters": 2934,
+      "images": 0,
+      "childCategories": 0,
+      "services": 0,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/",
+      "path": "/",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/",
+      "file": "home.html",
+      "bytes": 76951,
+      "title": "ТОО \"КазПроф Лаб\"",
+      "type": "home",
+      "contentCharacters": 6051,
+      "bodyHtmlCharacters": 8620,
+      "images": 2,
+      "childCategories": 4,
+      "services": 33,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/product_list",
+      "path": "/product_list",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/product_list",
+      "file": "product_list.html",
+      "bytes": 43016,
+      "title": "Товары и услуги",
+      "type": "catalog",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 0,
+      "childCategories": 4,
+      "services": 33,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/delivery_info",
+      "path": "/delivery_info",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/delivery_info",
+      "file": "delivery_info.html",
+      "bytes": 41067,
+      "title": "Условия доставки и оплаты",
+      "type": "policy",
+      "contentCharacters": 502,
+      "bodyHtmlCharacters": 765,
+      "images": 0,
+      "childCategories": 0,
+      "services": 0,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/testimonials",
+      "path": "/testimonials",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/testimonials",
+      "file": "testimonials.html",
+      "bytes": 38354,
+      "title": "Отзывы о компании ТОО \"КазПроф Лаб\"",
+      "type": "reviews",
+      "contentCharacters": 47,
+      "bodyHtmlCharacters": 152,
+      "images": 0,
+      "childCategories": 0,
+      "services": 0,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/p128297198-obuchenie-gost-isoiec.html",
+      "path": "/p128297198-obuchenie-gost-isoiec.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p128297198-obuchenie-gost-isoiec.html",
+      "file": "p128297198-obuchenie-gost-isoiec.html.html",
+      "bytes": 69172,
+      "title": "Обучение ГОСТ ISO/IEC 17025-2019 для испытательных и калибровочных лабораторий",
+      "type": "service",
+      "contentCharacters": 836,
+      "bodyHtmlCharacters": 1111,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга",
+      "characteristics": 3
+    },
+    {
+      "url": "https://kazproflab.kz/p128297202-iso-15189-2023.html",
+      "path": "/p128297202-iso-15189-2023.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p128297202-iso-15189-2023.html",
+      "file": "p128297202-iso-15189-2023.html.html",
+      "bytes": 69440,
+      "title": "СТ РК ISO 15189-2023 — обучение для медицинских лабораторий",
+      "type": "service",
+      "contentCharacters": 975,
+      "bodyHtmlCharacters": 1159,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга",
+      "characteristics": 3
+    },
+    {
+      "url": "https://kazproflab.kz/p128297206-gost-isoiec-17043.html",
+      "path": "/p128297206-gost-isoiec-17043.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p128297206-gost-isoiec-17043.html",
+      "file": "p128297206-gost-isoiec-17043.html.html",
+      "bytes": 71377,
+      "title": "ГОСТ ISO/IEC 17043-2025 — обучение для провайдеров проверки квалификации",
+      "type": "service",
+      "contentCharacters": 1139,
+      "bodyHtmlCharacters": 1340,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга",
+      "characteristics": 3
+    },
+    {
+      "url": "https://kazproflab.kz/p128297210-iso-9001-2016.html",
+      "path": "/p128297210-iso-9001-2016.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p128297210-iso-9001-2016.html",
+      "file": "p128297210-iso-9001-2016.html.html",
+      "bytes": 65466,
+      "title": "СТ РК ISO 9001-2016 — обучение по системе менеджмента качества",
+      "type": "service",
+      "contentCharacters": 1133,
+      "bodyHtmlCharacters": 1317,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 100 000 ₸/услуга",
+      "characteristics": 3
+    },
+    {
+      "url": "https://kazproflab.kz/p134381471-otsenka-neopredelennosti-rezultatov.html",
+      "path": "/p134381471-otsenka-neopredelennosti-rezultatov.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134381471-otsenka-neopredelennosti-rezultatov.html",
+      "file": "p134381471-otsenka-neopredelennosti-rezultatov.html.html",
+      "bytes": 70938,
+      "title": "Оценка неопределенности результатов измерений — обучение для лабораторий",
+      "type": "service",
+      "contentCharacters": 1046,
+      "bodyHtmlCharacters": 1089,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸"
+    },
+    {
+      "url": "https://kazproflab.kz/p128297214-podgotovka-vnutrennih-auditorov.html",
+      "path": "/p128297214-podgotovka-vnutrennih-auditorov.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p128297214-podgotovka-vnutrennih-auditorov.html",
+      "file": "p128297214-podgotovka-vnutrennih-auditorov.html.html",
+      "bytes": 65293,
+      "title": "Подготовка внутренних аудиторов лабораторий по ISO 19011",
+      "type": "service",
+      "contentCharacters": 991,
+      "bodyHtmlCharacters": 1175,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга",
+      "characteristics": 3
+    },
+    {
+      "url": "https://kazproflab.kz/p134381479-validatsiya-verifikatsiya-metodov.html",
+      "path": "/p134381479-validatsiya-verifikatsiya-metodov.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134381479-validatsiya-verifikatsiya-metodov.html",
+      "file": "p134381479-validatsiya-verifikatsiya-metodov.html.html",
+      "bytes": 71128,
+      "title": "Валидация и верификация методов испытаний — обучение для лабораторий",
+      "type": "service",
+      "contentCharacters": 1109,
+      "bodyHtmlCharacters": 1152,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+      "path": "/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+      "file": "p134387454-vnutrilaboratornyj-kontrol-kachestva.html.html",
+      "bytes": 72468,
+      "title": "Внутрилабораторный контроль качества и контрольные карты — обучение для лабораторий",
+      "type": "service",
+      "contentCharacters": 1148,
+      "bodyHtmlCharacters": 1208,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134387466-vnutrennij-audit-ispytatelnoj.html",
+      "path": "/p134387466-vnutrennij-audit-ispytatelnoj.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134387466-vnutrennij-audit-ispytatelnoj.html",
+      "file": "p134387466-vnutrennij-audit-ispytatelnoj.html.html",
+      "bytes": 74378,
+      "title": "Внутренний аудит испытательной лаборатории по ГОСТ ISO/IEC 17025-2019",
+      "type": "service",
+      "contentCharacters": 1693,
+      "bodyHtmlCharacters": 1790,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 450 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+      "path": "/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+      "file": "p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html.html",
+      "bytes": 79133,
+      "title": "Сопровождение испытательной лаборатории при аккредитации и подтверждении компетентности",
+      "type": "service",
+      "contentCharacters": 2051,
+      "bodyHtmlCharacters": 2142,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 1 500 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404104-statisticheskie-metody-proverki.html",
+      "path": "/p134404104-statisticheskie-metody-proverki.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404104-statisticheskie-metody-proverki.html",
+      "file": "p134404104-statisticheskie-metody-proverki.html.html",
+      "bytes": 75916,
+      "title": "Статистические методы проверки квалификации и межлабораторных сличений — обучение по ISO 13528",
+      "type": "service",
+      "contentCharacters": 1698,
+      "bodyHtmlCharacters": 1825,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404126-razrabotka-vnedrenie-sistemy.html",
+      "path": "/p134404126-razrabotka-vnedrenie-sistemy.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404126-razrabotka-vnedrenie-sistemy.html",
+      "file": "p134404126-razrabotka-vnedrenie-sistemy.html.html",
+      "bytes": 78042,
+      "title": "Разработка и внедрение системы менеджмента безопасности труда и охраны здоровья по ISO 45001",
+      "type": "service",
+      "contentCharacters": 1943,
+      "bodyHtmlCharacters": 2077,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 650 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404124-razrabotka-vnedrenie-sistemy.html",
+      "path": "/p134404124-razrabotka-vnedrenie-sistemy.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404124-razrabotka-vnedrenie-sistemy.html",
+      "file": "p134404124-razrabotka-vnedrenie-sistemy.html.html",
+      "bytes": 77255,
+      "title": "Разработка и внедрение системы экологического менеджмента по СТ РК ISO 14001-2016",
+      "type": "service",
+      "contentCharacters": 1928,
+      "bodyHtmlCharacters": 2059,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 650 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404119-razrabotka-vnedrenie-sistemy.html",
+      "path": "/p134404119-razrabotka-vnedrenie-sistemy.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404119-razrabotka-vnedrenie-sistemy.html",
+      "file": "p134404119-razrabotka-vnedrenie-sistemy.html.html",
+      "bytes": 77702,
+      "title": "Разработка и внедрение системы менеджмента качества по СТ РК ISO 9001-2016",
+      "type": "service",
+      "contentCharacters": 1920,
+      "bodyHtmlCharacters": 2045,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 650 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404155-menedzhment-riskov-iso.html",
+      "path": "/p134404155-menedzhment-riskov-iso.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404155-menedzhment-riskov-iso.html",
+      "file": "p134404155-menedzhment-riskov-iso.html.html",
+      "bytes": 72135,
+      "title": "Менеджмент рисков по ISO 31000:2018 — обучение управлению рисками",
+      "type": "service",
+      "contentCharacters": 1323,
+      "bodyHtmlCharacters": 1389,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404149-razrabotka-vnedrenie-sistemy.html",
+      "path": "/p134404149-razrabotka-vnedrenie-sistemy.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404149-razrabotka-vnedrenie-sistemy.html",
+      "file": "p134404149-razrabotka-vnedrenie-sistemy.html.html",
+      "bytes": 79002,
+      "title": "Разработка и внедрение системы менеджмента противодействия коррупции по ISO 37001:2025",
+      "type": "service",
+      "contentCharacters": 2149,
+      "bodyHtmlCharacters": 2289,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 650 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404158-gost-isoiec-17065.html",
+      "path": "/p134404158-gost-isoiec-17065.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404158-gost-isoiec-17065.html",
+      "file": "p134404158-gost-isoiec-17065.html.html",
+      "bytes": 79221,
+      "title": "ГОСТ ISO/IEC 17065-2013 — обучение для органов по подтверждению соответствия продукции (ОПС П)",
+      "type": "service",
+      "contentCharacters": 2151,
+      "bodyHtmlCharacters": 2285,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404159-vnutrennij-audit-ops.html",
+      "path": "/p134404159-vnutrennij-audit-ops.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404159-vnutrennij-audit-ops.html",
+      "file": "p134404159-vnutrennij-audit-ops.html.html",
+      "bytes": 75103,
+      "title": "Внутренний аудит ОПС П по ГОСТ ISO/IEC 17065-2013",
+      "type": "service",
+      "contentCharacters": 1902,
+      "bodyHtmlCharacters": 2033,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 450 000 ₸"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404165-isoiec-17021-17021.html",
+      "path": "/p134404165-isoiec-17021-17021.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404165-isoiec-17021-17021.html",
+      "file": "p134404165-isoiec-17021-17021.html.html",
+      "bytes": 81377,
+      "title": "СТ РК ISO/IEC 17021-1, 17021-2, 17021-3 — обучение для ОПС СМ",
+      "type": "service",
+      "contentCharacters": 2729,
+      "bodyHtmlCharacters": 2950,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404161-soprovozhdenie-ops-pri.html",
+      "path": "/p134404161-soprovozhdenie-ops-pri.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404161-soprovozhdenie-ops-pri.html",
+      "file": "p134404161-soprovozhdenie-ops-pri.html.html",
+      "bytes": 78690,
+      "title": "Сопровождение ОПС П при аккредитации и подтверждении компетентности по ГОСТ ISO/IEC 17065-2013",
+      "type": "service",
+      "contentCharacters": 2097,
+      "bodyHtmlCharacters": 2222,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 1 500 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+      "path": "/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+      "file": "p134404167-podgotovka-povyshenie-kvalifikatsii.html.html",
+      "bytes": 78988,
+      "title": "Подготовка и повышение квалификации экспертов-аудиторов по СМК СТ РК ISO 9001-2016 — 40/80 часов",
+      "type": "service",
+      "contentCharacters": 2052,
+      "bodyHtmlCharacters": 2272,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 100 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+      "path": "/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+      "file": "p134404219-podgotovka-povyshenie-kvalifikatsii.html.html",
+      "bytes": 81047,
+      "title": "Подготовка и повышение квалификации экспертов-аудиторов по СЭМ СТ РК ISO 14001-2016 — 40/80 часов",
+      "type": "service",
+      "contentCharacters": 2336,
+      "bodyHtmlCharacters": 2565,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 100 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134405135-vnutrennij-audit-ops.html",
+      "path": "/p134405135-vnutrennij-audit-ops.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134405135-vnutrennij-audit-ops.html",
+      "file": "p134405135-vnutrennij-audit-ops.html.html",
+      "bytes": 78486,
+      "title": "Внутренний аудит ОПС СМ по серии СТ РК ISO/IEC 17021",
+      "type": "service",
+      "contentCharacters": 2328,
+      "bodyHtmlCharacters": 2491,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 450 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134405603-soprovozhdenie-ops-pri.html",
+      "path": "/p134405603-soprovozhdenie-ops-pri.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134405603-soprovozhdenie-ops-pri.html",
+      "file": "p134405603-soprovozhdenie-ops-pri.html.html",
+      "bytes": 81541,
+      "title": "Сопровождение ОПС СМ при аккредитации и подтверждении компетентности по серии СТ РК ISO/IEC 17021",
+      "type": "service",
+      "contentCharacters": 2451,
+      "bodyHtmlCharacters": 2608,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 1 500 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+      "path": "/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+      "file": "p134405768-menedzher-kachestvu-ispytatelnoj.html.html",
+      "bytes": 86028,
+      "title": "Менеджер по качеству испытательной лаборатории — подготовка и повышение квалификации 40/80 часов",
+      "type": "service",
+      "contentCharacters": 3021,
+      "bodyHtmlCharacters": 3283,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 100 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+      "file": "p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html.html",
+      "bytes": 87158,
+      "title": "Специалист по внутрилабораторному контролю качества (ВКК) — подготовка и повышение квалификации 40/80 часов",
+      "type": "service",
+      "contentCharacters": 3064,
+      "bodyHtmlCharacters": 3372,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 100 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+      "path": "/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+      "file": "p134408346-upravlenie-aktualizatsiya-normativnyh.html.html",
+      "bytes": 82747,
+      "title": "Управление и актуализация нормативных документов по стандартизации — обучение",
+      "type": "service",
+      "contentCharacters": 2618,
+      "bodyHtmlCharacters": 2781,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134408347-vnutrennij-audit-provajdera.html",
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134408347-vnutrennij-audit-provajdera.html",
+      "file": "p134408347-vnutrennij-audit-provajdera.html.html",
+      "bytes": 84282,
+      "title": "Внутренний аудит провайдера проверки квалификации (ППК) по ГОСТ ISO/IEC 17043-2025",
+      "type": "service",
+      "contentCharacters": 2626,
+      "bodyHtmlCharacters": 2813,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 450 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134408348-soprovozhdenie-ppk-pri.html",
+      "path": "/p134408348-soprovozhdenie-ppk-pri.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134408348-soprovozhdenie-ppk-pri.html",
+      "file": "p134408348-soprovozhdenie-ppk-pri.html.html",
+      "bytes": 84436,
+      "title": "Сопровождение ППК при аккредитации и подтверждении компетентности по ГОСТ ISO/IEC 17043-2025",
+      "type": "service",
+      "contentCharacters": 2884,
+      "bodyHtmlCharacters": 3068,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 1 500 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134408356-diagnosticheskij-audit-laboratorii.html",
+      "path": "/p134408356-diagnosticheskij-audit-laboratorii.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134408356-diagnosticheskij-audit-laboratorii.html",
+      "file": "p134408356-diagnosticheskij-audit-laboratorii.html.html",
+      "bytes": 87456,
+      "title": "Диагностический аудит лаборатории — оценка текущего состояния и готовности к аккредитации",
+      "type": "service",
+      "contentCharacters": 3217,
+      "bodyHtmlCharacters": 3461,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 200 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+      "path": "/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+      "file": "p134408364-otsenivanie-neopredelennosti-izmerenij.html.html",
+      "bytes": 85728,
+      "title": "Оценивание неопределенности измерений и результатов испытаний — расчет и методическое сопровождение",
+      "type": "service",
+      "contentCharacters": 2870,
+      "bodyHtmlCharacters": 3103,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 50 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+      "path": "/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+      "file": "p134408382-podgotovka-laboratorii-akkreditatsii.html.html",
+      "bytes": 85726,
+      "title": "Подготовка лаборатории к аккредитации и подтверждению компетентности",
+      "type": "service",
+      "contentCharacters": 3142,
+      "bodyHtmlCharacters": 3388,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 300 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/p134427870-gost-isoiec-17024.html",
+      "path": "/p134427870-gost-isoiec-17024.html",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/p134427870-gost-isoiec-17024.html",
+      "file": "p134427870-gost-isoiec-17024.html.html",
+      "bytes": 75048,
+      "title": "ГОСТ ISO/IEC 17024-2014 — обучение для органов по сертификации персонала",
+      "type": "service",
+      "contentCharacters": 1666,
+      "bodyHtmlCharacters": 1867,
+      "images": 1,
+      "childCategories": 0,
+      "services": 0,
+      "price": "от 80 000 ₸/услуга"
+    },
+    {
+      "url": "https://kazproflab.kz/g9714386-podgotovka-otsenke-akkreditatsii",
+      "path": "/g9714386-podgotovka-otsenke-akkreditatsii",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714386-podgotovka-otsenke-akkreditatsii",
+      "file": "g9714386-podgotovka-otsenke-akkreditatsii.html",
+      "bytes": 80613,
+      "title": "Подготовка к оценке и аккредитации",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 0,
+      "childCategories": 3,
+      "services": 4,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "file": "g9499437-obuchenie-povyshenie-kvalifikatsii.html",
+      "bytes": 226860,
+      "title": "Обучение и повышение квалификации",
+      "type": "category",
+      "contentCharacters": 2645,
+      "bodyHtmlCharacters": 3460,
+      "images": 1,
+      "childCategories": 5,
+      "services": 18,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714387-razrabotka-vnedrenie-sistem",
+      "path": "/g9714387-razrabotka-vnedrenie-sistem",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714387-razrabotka-vnedrenie-sistem",
+      "file": "g9714387-razrabotka-vnedrenie-sistem.html",
+      "bytes": 98247,
+      "title": "Разработка и внедрение систем менеджмента",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 0,
+      "childCategories": 3,
+      "services": 6,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714388-audit-otsenka",
+      "path": "/g9714388-audit-otsenka",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714388-audit-otsenka",
+      "file": "g9714388-audit-otsenka.html",
+      "bytes": 87895,
+      "title": "Аудит и оценка",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 0,
+      "childCategories": 4,
+      "services": 5,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714389-laboratorii-metrologiya",
+      "path": "/g9714389-laboratorii-metrologiya",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714389-laboratorii-metrologiya",
+      "file": "g9714389-laboratorii-metrologiya.html",
+      "bytes": 127365,
+      "title": "Лаборатории и метрология",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 10,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714390-sistemy-menedzhmenta-predpriyatij",
+      "path": "/g9714390-sistemy-menedzhmenta-predpriyatij",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714390-sistemy-menedzhmenta-predpriyatij",
+      "file": "g9714390-sistemy-menedzhmenta-predpriyatij.html",
+      "bytes": 60354,
+      "title": "Системы менеджмента предприятий",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 2,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+      "path": "/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+      "file": "g9714391-organy-podtverzhdeniyu-sootvetstviya.html",
+      "bytes": 53359,
+      "title": "Органы по подтверждению соответствия продукции (ОПС П)",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714393-provajdery-proverki-kvalifikatsii",
+      "path": "/g9714393-provajdery-proverki-kvalifikatsii",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714393-provajdery-proverki-kvalifikatsii",
+      "file": "g9714393-provajdery-proverki-kvalifikatsii.html",
+      "bytes": 52692,
+      "title": "Провайдеры проверки квалификации (ППК)",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714392-eksperty-auditory-organy",
+      "path": "/g9714392-eksperty-auditory-organy",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714392-eksperty-auditory-organy",
+      "file": "g9714392-eksperty-auditory-organy.html",
+      "bytes": 77476,
+      "title": "Эксперты-аудиторы и Органы по подтверждению соответствия (ОПС СМ)",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 4,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714394-vnutrennie-audity",
+      "path": "/g9714394-vnutrennie-audity",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714394-vnutrennie-audity",
+      "file": "g9714394-vnutrennie-audity.html",
+      "bytes": 51803,
+      "title": "Внутренние аудиты",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714395-diagnosticheskij-audit-analiz",
+      "path": "/g9714395-diagnosticheskij-audit-analiz",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714395-diagnosticheskij-audit-analiz",
+      "file": "g9714395-diagnosticheskij-audit-analiz.html",
+      "bytes": 53170,
+      "title": "Диагностический аудит (анализ текущего состояния)",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+      "path": "/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+      "file": "g9714396-organy-podtverzhdeniyu-sootvetstviya.html",
+      "bytes": 59978,
+      "title": "Органы по подтверждению соответствия ОПС П и ОПС СМ",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 2,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714398-provajdery-proverki-kvalifikatsii",
+      "path": "/g9714398-provajdery-proverki-kvalifikatsii",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714398-provajdery-proverki-kvalifikatsii",
+      "file": "g9714398-provajdery-proverki-kvalifikatsii.html",
+      "bytes": 52601,
+      "title": "Провайдеры проверки квалификации (ППК)",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714399-organy-otsenki-sootvetstviya",
+      "path": "/g9714399-organy-otsenki-sootvetstviya",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714399-organy-otsenki-sootvetstviya",
+      "file": "g9714399-organy-otsenki-sootvetstviya.html",
+      "bytes": 61221,
+      "title": "Органы оценки соответствия",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 2,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714400-laboratorii",
+      "path": "/g9714400-laboratorii",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714400-laboratorii",
+      "file": "g9714400-laboratorii.html",
+      "bytes": 52087,
+      "title": "Лаборатории",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714401-sistemy-menedzhmenta-laboratorij",
+      "path": "/g9714401-sistemy-menedzhmenta-laboratorij",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714401-sistemy-menedzhmenta-laboratorij",
+      "file": "g9714401-sistemy-menedzhmenta-laboratorij.html",
+      "bytes": 53241,
+      "title": "Системы менеджмента лабораторий",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714402-sistemy-menedzhmenta-predpriyatij",
+      "path": "/g9714402-sistemy-menedzhmenta-predpriyatij",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714402-sistemy-menedzhmenta-predpriyatij",
+      "file": "g9714402-sistemy-menedzhmenta-predpriyatij.html",
+      "bytes": 78004,
+      "title": "Системы менеджмента предприятий",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 4,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9714404-tehnicheskij-metodicheskij-konsalting",
+      "path": "/g9714404-tehnicheskij-metodicheskij-konsalting",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9714404-tehnicheskij-metodicheskij-konsalting",
+      "file": "g9714404-tehnicheskij-metodicheskij-konsalting.html",
+      "bytes": 53590,
+      "title": "Технический и методический консалтинг",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    },
+    {
+      "url": "https://kazproflab.kz/g9715854-provajdery-proverki-kvalifikatsii",
+      "path": "/g9715854-provajdery-proverki-kvalifikatsii",
+      "status": 200,
+      "finalUrl": "https://kazproflab.kz/g9715854-provajdery-proverki-kvalifikatsii",
+      "file": "g9715854-provajdery-proverki-kvalifikatsii.html",
+      "bytes": 53035,
+      "title": "Провайдеры проверки квалификации (ППК)",
+      "type": "category",
+      "contentCharacters": 0,
+      "bodyHtmlCharacters": 0,
+      "images": 1,
+      "childCategories": 0,
+      "services": 1,
+      "price": null
+    }
+  ],
+  "removedEditorial": [
+    {
+      "path": "/",
+      "text": "Не использовать формулировки, предполагающие оказание ТОО «КазПроф Лаб» услуг по поверке или калибровке.",
+      "reason": "Published editorial instruction"
+    },
+    {
+      "path": "/p134404119-razrabotka-vnedrenie-sistemy.html",
+      "text": "Описание позиции",
+      "reason": "Editorial suffix in page title"
+    },
+    {
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "text": "Следующая по нашему плану — ППК. Поскольку обучение по ГОСТ ISO/IEC 17043-2025 ты уже перенесла в правильную группу, следующим делаем не ещё один курс, а услугу внутреннего аудита ППК.",
+      "reason": "Published editorial notes / duplicate editorial heading"
+    },
+    {
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "text": "№28. Внутренний аудит провайдера проверки квалификации (ППК) по ГОСТ ISO/IEC 17043-2025",
+      "reason": "Published editorial notes / duplicate editorial heading"
+    },
+    {
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "text": "Название на Satu",
+      "reason": "Published editorial notes / duplicate editorial heading"
+    },
+    {
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "text": "Внутренний аудит провайдера проверки квалификации (ППК) по ГОСТ ISO/IEC 17043-2025",
+      "reason": "Published editorial notes / duplicate editorial heading"
+    },
+    {
+      "path": "/p134408347-vnutrennij-audit-provajdera.html",
+      "text": "Описание",
+      "reason": "Published editorial notes / duplicate editorial heading"
+    }
+  ],
+  "warnings": [
+    {
+      "path": "/",
+      "type": "legacy_brand",
+      "message": "Original source references SAPA SPACE; copied content requires owner review.",
+      "sourceDescription": "Центр практической экспертизы SAPA SPACE по внедрению систем менеджмента (СМК). Подготовка лабораторий и органов сертификации к аккредитации. Обучение специалистов.",
+      "bodyContainsLegacyBrand": false
+    },
+    {
+      "path": "/g9714386-podgotovka-otsenke-akkreditatsii",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "type": "legacy_brand",
+      "message": "Original source references SAPA SPACE; copied content requires owner review.",
+      "sourceDescription": "Курсы повышения квалификации и обучения специалистов в Алматы. Опытные преподаватели, онлайн и офлайн формат. Практические занятия. Современная программа от SAPA SPACE.",
+      "bodyContainsLegacyBrand": true
+    },
+    {
+      "path": "/g9714387-razrabotka-vnedrenie-sistem",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714388-audit-otsenka",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714389-laboratorii-metrologiya",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714390-sistemy-menedzhmenta-predpriyatij",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714393-provajdery-proverki-kvalifikatsii",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714392-eksperty-auditory-organy",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714394-vnutrennie-audity",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714395-diagnosticheskij-audit-analiz",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714398-provajdery-proverki-kvalifikatsii",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714399-organy-otsenki-sootvetstviya",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714400-laboratorii",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714401-sistemy-menedzhmenta-laboratorij",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714402-sistemy-menedzhmenta-predpriyatij",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9714404-tehnicheskij-metodicheskij-konsalting",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    },
+    {
+      "path": "/g9715854-provajdery-proverki-kvalifikatsii",
+      "type": "no_category_description",
+      "message": "The source category has no description; original category/service relationships are preserved."
+    }
+  ],
+  "missingLinks": [],
+  "whatsapp": {
+    "source": "https://kazproflab.kz/graphql query socialPanelQuery (read only)",
+    "phone": "77004496383",
+    "position": "left",
+    "hrefBase": "https://wa.me/77004496383",
+    "originalTemplate": "Добрый день! Меня интересует предложение с Вашего сайта: <current page URL>"
+  },
+  "assets": {
+    "total": 54,
+    "downloaded": 54,
+    "failed": [],
+    "totalBytes": 50888878
+  },
+  "courseCharacteristicsTables": 5,
+  "verification": {
+    "checkedAt": "2026-10-20T08:12:42.380Z",
+    "passed": true,
+    "issues": [],
+    "sourceTextPreservation": [
+      {
+        "path": "/about_us",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1911
+      },
+      {
+        "path": "/contacts",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 147
+      },
+      {
+        "path": "/return_policy",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1670
+      },
+      {
+        "path": "/",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 5315
+      },
+      {
+        "path": "/product_list",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/delivery_info",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 20
+      },
+      {
+        "path": "/testimonials",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/p128297198-obuchenie-gost-isoiec.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 631
+      },
+      {
+        "path": "/p128297202-iso-15189-2023.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 755
+      },
+      {
+        "path": "/p128297206-gost-isoiec-17043.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 904
+      },
+      {
+        "path": "/p128297210-iso-9001-2016.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 897
+      },
+      {
+        "path": "/p134381471-otsenka-neopredelennosti-rezultatov.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 930
+      },
+      {
+        "path": "/p128297214-podgotovka-vnutrennih-auditorov.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 771
+      },
+      {
+        "path": "/p134381479-validatsiya-verifikatsiya-metodov.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 984
+      },
+      {
+        "path": "/p134387454-vnutrilaboratornyj-kontrol-kachestva.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1018
+      },
+      {
+        "path": "/p134387466-vnutrennij-audit-ispytatelnoj.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1478
+      },
+      {
+        "path": "/p134387670-soprovozhdenie-ispytatelnoj-laboratorii.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1796
+      },
+      {
+        "path": "/p134404104-statisticheskie-metody-proverki.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1489
+      },
+      {
+        "path": "/p134404126-razrabotka-vnedrenie-sistemy.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1694
+      },
+      {
+        "path": "/p134404124-razrabotka-vnedrenie-sistemy.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1685
+      },
+      {
+        "path": "/p134404119-razrabotka-vnedrenie-sistemy.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1681
+      },
+      {
+        "path": "/p134404155-menedzhment-riskov-iso.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1167
+      },
+      {
+        "path": "/p134404149-razrabotka-vnedrenie-sistemy.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1887
+      },
+      {
+        "path": "/p134404158-gost-isoiec-17065.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1877
+      },
+      {
+        "path": "/p134404159-vnutrennij-audit-ops.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1654
+      },
+      {
+        "path": "/p134404165-isoiec-17021-17021.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2373
+      },
+      {
+        "path": "/p134404161-soprovozhdenie-ops-pri.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1825
+      },
+      {
+        "path": "/p134404167-podgotovka-povyshenie-kvalifikatsii.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1789
+      },
+      {
+        "path": "/p134404219-podgotovka-povyshenie-kvalifikatsii.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2037
+      },
+      {
+        "path": "/p134405135-vnutrennij-audit-ops.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2022
+      },
+      {
+        "path": "/p134405603-soprovozhdenie-ops-pri.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2133
+      },
+      {
+        "path": "/p134405768-menedzher-kachestvu-ispytatelnoj.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2634
+      },
+      {
+        "path": "/p134406266-spetsialist-vnutrilaboratornomu-kontrolyu.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2685
+      },
+      {
+        "path": "/p134408346-upravlenie-aktualizatsiya-normativnyh.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2294
+      },
+      {
+        "path": "/p134408347-vnutrennij-audit-provajdera.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2293
+      },
+      {
+        "path": "/p134408348-soprovozhdenie-ppk-pri.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2508
+      },
+      {
+        "path": "/p134408356-diagnosticheskij-audit-laboratorii.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2813
+      },
+      {
+        "path": "/p134408364-otsenivanie-neopredelennosti-izmerenij.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2511
+      },
+      {
+        "path": "/p134408382-podgotovka-laboratorii-akkreditatsii.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2737
+      },
+      {
+        "path": "/p134427870-gost-isoiec-17024.html",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 1465
+      },
+      {
+        "path": "/g9714386-podgotovka-otsenke-akkreditatsii",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 2313
+      },
+      {
+        "path": "/g9714387-razrabotka-vnedrenie-sistem",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714388-audit-otsenka",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714389-laboratorii-metrologiya",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714390-sistemy-menedzhmenta-predpriyatij",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714391-organy-podtverzhdeniyu-sootvetstviya",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714393-provajdery-proverki-kvalifikatsii",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714392-eksperty-auditory-organy",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714394-vnutrennie-audity",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714395-diagnosticheskij-audit-analiz",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714396-organy-podtverzhdeniyu-sootvetstviya",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714398-provajdery-proverki-kvalifikatsii",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714399-organy-otsenki-sootvetstviya",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714400-laboratorii",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714401-sistemy-menedzhmenta-laboratorij",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714402-sistemy-menedzhmenta-predpriyatij",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9714404-tehnicheskij-metodicheskij-konsalting",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      },
+      {
+        "path": "/g9715854-provajdery-proverki-kvalifikatsii",
+        "sourceAuthoredTextPreserved": true,
+        "sourceTextChars": 0
+      }
+    ],
+    "checks": [
+      "59 unique source routes",
+      "33 services / 19 categories / 7 general pages",
+      "all category, service and breadcrumb relationships resolve",
+      "all 33 service prices preserved",
+      "all source user-authored text retained except recorded editorial removals",
+      "all 5 source characteristics tables retained",
+      "all content images available locally",
+      "no source scripts, styles, forms or iframes in bodyHtml"
+    ]
+  },
+  "migrationAdjustments": [
+    {
+      "path": "/testimonials",
+      "from": "На момент переноса на сайте не опубликовано отзывов о компании.",
+      "to": "Пока нет опубликованных отзывов.",
+      "reason": "Remove implementation wording from public empty state."
+    },
+    {
+      "path": "/delivery_info",
+      "from": "Безналичный расчетОплата",
+      "to": "Безналичный расчет. Оплата",
+      "reason": "Restore boundary between payment label and comment after source span removal."
+    },
+    {
+      "path": "/g9499437-obuchenie-povyshenie-kvalifikatsii",
+      "from": "/#bot",
+      "to": "/product_list",
+      "count": 2,
+      "reason": "The source buttons say «Посмотреть каталог» / «Перейти в каталог»; point to the migrated catalog instead of a missing anchor."
+    }
+  ]
+}
