@@ -1,0 +1,18 @@
+[build]
+  base = "website"
+  command = "npm run build:netlify"
+  publish = "dist/netlify"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NPM_FLAGS = "--include=dev"
+
+# Preserve the original service URLs ending in .html.
+[build.processing.html]
+  pretty_urls = false
+
+# This deployment is a review copy; kazproflab.kz remains the canonical site.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

@@ -6,9 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && node scripts/prepare-sites-build.mjs && node scripts/prerender.mjs",
+    "build:netlify": "playwright install chromium && npm run build && node scripts/prepare-netlify.mjs && npm run test:netlify",
     "content:sync": "node scripts/sync-content.mjs",
     "preview": "node scripts/serve-static.mjs",
     "test:sites": "node --test tests/sites-worker.test.mjs",
+    "test:netlify": "node --test tests/netlify-output.test.mjs",
     "test:browser": "node tests/browser-smoke.mjs"
   },
   "dependencies": {

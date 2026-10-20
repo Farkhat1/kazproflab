@@ -32,6 +32,20 @@ Prerender открывает производственную сборку, жд
 
 Canonical и sitemap по умолчанию указывают на `https://kazproflab.kz`. Переменная `SITE_URL` переопределяет домен для другого реального сайта. Для тестовой копии оставьте основной canonical, ограничьте доступ паролем или задайте на тестовом сервере заголовок `X-Robots-Tag: noindex`, чтобы она не индексировалась.
 
+## Netlify / временный адрес для согласования
+
+Конфигурация находится в `../../netlify.toml` и применяется при импорте GitHub-репозитория. Base directory — `website`, build command — `npm run build:netlify`, publish directory — `dist/netlify`, Node.js — `22`. Выберите ветку `main`; секреты и серверные переменные для этого статического сайта не нужны.
+
+`build:netlify` устанавливает Chromium командой `playwright install chromium`, запускает обычную сборку, подготавливает отдельный пакет и проверяет его. Флаг `--with-deps` намеренно не используется: установка системных библиотек требует root и может завершиться ошибкой в Netlify. Linux-среда Netlify должна содержать системные библиотеки Chromium; это окончательно проверяется при первой облачной сборке.
+
+`scripts/prepare-netlify.mjs` копирует готовые файлы из `dist/client` в `dist/netlify`. Например, исходный `/contacts/index.html` становится `contacts.html`: Netlify с выключенными Pretty URLs обслуживает такой файл по `/contacts`, не добавляя слеш. Имена карточек услуг `p….html` остаются прежними. `.htaccess` не копируется, так как правила Apache на Netlify не действуют. Обычный пакет `dist/client` для казахстанского Apache/Nginx остаётся без изменений.
+
+Три проверки `npm run test:netlify` сверяют содержимое всех 59 страниц и их canonical, двоичную идентичность ресурсов и наличие отдельного `404.html`. Любая ошибка останавливает сборку до публикации. Не добавляйте `/* /index.html 200`: неизвестные адреса должны сохранять ответ 404.
+
+В конфигурации Netlify отключены Pretty URLs и установлен `X-Robots-Tag: noindex, nofollow` для временной копии. Это относится в том числе к основной ветке проекта на `netlify.app`; сама конфигурация не подключает `kazproflab.kz`.
+
+Официальные справочники: [конфигурация Netlify](https://docs.netlify.com/build/configure-builds/file-based-configuration/), [обработка URL](https://docs.netlify.com/build/post-processing/overview/), [установка браузеров Playwright](https://playwright.dev/docs/browsers).
+
 ## Apache / обычный хостинг
 
 1. Создайте отдельную тестовую папку или тестовый поддомен на хостинге.
